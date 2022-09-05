@@ -1,0 +1,585 @@
+"/_f              ‚Ó‚¶‚Ì‚­‚É
+Aˆêƒm    ŠÔ”°‚ÉŠñ—^‚·‚éŽ†
+ƒ}ƒbƒNƒXƒpƒŠƒ…“ŒŠC‚ÍA‚±‚Ìw‚Ó‚¶‚Ì‚­‚ÉX‚Ì’¬“à‰ïj(/)Ž†‚ðŽg‚¤‚±‚Æ‚É‚æ‚èA—Ñ’n‚ÉŽÌ‚Ä‚ç‚ê‚é–â”°Þ‚ðŽ‘Œ¹‚Æ‚µ‚Ä
+Šˆ—p‚·‚é‚Ì‚É‹¦—Í‚µAÃ‰ªêa‚Ì–L‚©‚ÈX—Ñ‚Ã‚­‚è‚ðƒTƒ|[ƒg‚µ‚Ä‚¢‚Ü‚·B"																																				"Rª–¿
+ŠÂ‹«‚É”z—¶‚µAA•¨«ƒCƒ“ƒN‚ðŽg—p‚µ‚Ä‚¢‚Ü‚·B"														¥ON																		"ŽP–Ø‚ðA‚¦‚Ä‚¢‚Ü‚·
+Ž„‚½‚¿‚ÍƒCƒIƒ“‚Å‚·"																																																															
+																																																																																																																																			
+‚±e‚ ‚¢‚³‚Â																																																																																																																																			
+"ƒ}ƒbƒNƒXƒoƒŠƒ…“ŒŠCiŠ”jŽX‹«•ûj
+‘S‚ÅˆÀS‚È¤•iEƒT[ƒrƒX‚Ì’ñ‹Ÿ‚Æ“X•Ü‚Ã‚­‚è‚ðs‚¢A‚¨‹q‚³‚Ü‚Æ“¯‚¶’nˆæŽÐ‰ï‚Ìˆêˆõ‚Æ‚µ‚ÄA’n‹…ŠÂ‹«‚Ö‚Ì•‰‰×ŒyŒ¸‚Æ•Û‘S‚É“w‚ß‚Ü‚·B
+1.   “–ŽÐ‚Ì‰c‹ÆŠˆ“®‚É‚©‚©‚í‚éŠÂ‹«‰e‹¿‚ðí‚ÉˆÓŽ¯‚µAŠÂ‹«‰˜õ‚ÌƒŠƒXƒN‚ÌŒyŒ¸‚ð„i‚·‚é‚Æ‚Æ‚à‚ÉŠÂ‹«ƒpƒtƒH[ƒ}ƒ“ƒX‚ÌŒüã‚ÆŠÂ‹«ƒ}ƒlƒWƒƒ“ƒgƒVƒXƒeƒ€‚ÌŒp‘±“I‚È‰ü‘P‚Æ‚»‚Ì’èŠú“IŒ©’¼‚µ‚ð}‚è‚Ü‚·B
+2     ¶‘ÔŒn•ÛŒì‚ðŠÜ‚ÞŽ©‘RŠÂ‹«•Û‘S‚É“w‚ß‚Ü‚·B
+3.   ŠÂ‹«•Û‘S‚ÉŠÖ‚·‚é–@—ß‚Ì…ŽçiƒRƒ“ƒvƒ‰ƒCƒAƒ“ƒXj‚ð–ñ‘©‚µAŽó“ü‚ê‚ðŒˆ‚ß‚½‹¦’è‚»‚Ì‘¼‚Ì—v‹Ž–"																																																													"2018”N“x‚Ì“ú–{ŒoÏ‚ÍAŠé‹ÆŽû‰v‚Ì‰ü‘P‚âŒÜ—ÖŠÖ˜AE¶ŽY«Œü   “ŠŽ‘‚È‚Ç‚ª    ’²‚É„ˆÚ‚µAŒÙ—pEŠ“¾ŠÂ‹«       ‘P‚ªŒ©‚ç‚ê‚é‚È‚©AŒÂlÁ”ï‚Í’êŒ˜‚­„ˆÚ‚µ‚Ä‚¨‚èAŠÉ‚â‚©‚È‰ñ•œŒXŒü‚ª‘±‚¢‚Ä‚¨‚è‚Ü‚·BQ•û‚ÅA•Ä’†ŠÔ‚Ì•ÛŒìŽå‹`“I‚È’Ê¤­ô‚È‚Ç‚Ì•sŠmŽÀ‚È‘Ûî¨‚ª‘±‚­‚È‚ÇAŒi‹C‚Ìæs‚«‚ÍˆË‘R‚Æ‚µ‚Ä•s“§–¾‚Èó‹µ‚Æ‚È‚Á‚Ä‚¨‚è‚Ü‚·B
+‚Ü‚½A‚¨‹q‚³‚Ü‚ÌÁ”ïs“®‚â‰¿’lŠÏ‚Ì‘½—l‰»‚É‰Á‚¦A˜J“­ƒRƒXƒg‚Ìã¸A‹ÆŽí_‹Æ‘Ô‚ð’´‚¦‚½‹£‘ˆŠÂ‹«‚ÌŒƒ‰»‚È‚ÇAŒo‰cŠÂ‹«‚Í‹|m‚«‘±‚«Œµ‚µ‚¢ó‹µ‚ª‘±‚¢‚Ä‚¨‚è‚Ü‚·B
+‚±‚Ì‚æ‚¤‚ÈŠÂ‹«‚Ì’†A“–ŽÐ‚Í2018”N“xƒXƒ[ƒKƒ“‚Éu’nˆæ–§’…Œo‰c‚ÌŽÀ‘H   ‚¨‹q‚³‚Ü‚Ì‚½‚ß‚ÉŽ©‚çl‚¦AŽ©‚ç‚â‚è‹‚°‚æ‚¤Iv‚ðŒf‚°A‚¨‹q‚³‚Ü‚É‚Æ‚Á‚ÄŠeX‚Ì“X•Ü‚ªu’nˆæ‚É‚È‚­‚Ä‚Í  ‚È‚ç‚È‚¢“X•Üv‚ð–ÚŽw‚µ‚ÄA’nˆæ‚Éª‚´‚µ‚½“X•Ü‰^‰c‚ð„i‚µ‚Ä‚Ü‚¢‚è‚Ü‚µ‚½Bw–ÚŽw‚·“X•Üx‚ðŽÀŒ»‚·‚é‚½‚ß‚ÌŽæ‚è‘g‚Ý‚ÌˆêŠÂ‚Æ‚µ‚ÄA’nˆæ‚Ö‚ÌvŒ£‚âŠÂ‹«•Û‘S‚ð–Ú“I‚Æ‚µ‚½Šˆ“®‚É‚àÏ‹É
+‘ã•\Žæ’÷–ðŽÐ’·                     “I‚ÉŽæ‚è‘g‚ñ‚Å‚¨‚è‚Ü‚·B—á‚¦‚ÎAŒp‘±“I‚ÉŽæ‚è‘g‚Þu‚¶‚à‚Ì¤•iv‚Ìˆç¬A•xŽmŽR‚ÌŠÂ‹«•Û
+_”ö      Œ[Ž¡       ‘S‚ÉvŒ£‚·‚éu•xŽmŽR‚ ‚è‚ª‚Æ‚¤ƒLƒƒƒ“ƒy[ƒ“v‚ÍA”NXŠg‚ª‚è‚ðŒ©‚¹‚Ä‚¨‚è‚Ü‚·B
+‚Ü‚½Aw¢ŠE‚ÅÅ‚à”ü‚µ‚¢˜pƒNƒ‰ƒux‚É‰Á–¿‚µ‚½x‰Í˜p‚Ì•Û‘S‚ð–Ú“I‚Æ‚µ‚½Šˆ“®‚É‚àŽæ‚è‘g‚ÝA‚±‚ÌŠˆ“®‚É‚²‹¦—Í‚¢‚½‚¾‚­‚¨Žæˆø‚³‚Ü‚âŠJ”­¤•i‚É‚Â‚«‚Ü‚µ‚Ä‚àA’…ŽÀ‚ÈŠg‚ª‚è‚ð‚Ý‚¹‚Ä‚¨‚è‚Ü‚·BQ•û‚Å‚ÍAuHv‚ðŽæ‚èˆµ‚¤Šé‹Æ‚Æ‚µ‚ÄA‚¨‹q‚³‚Ü‚â]‹Æˆõ‚ÌŒ’N‚âA‚æ‚è–L‚©‚ÈH¶Šˆ‚ðƒTƒ|[ƒg‚·‚é‚½‚ß‚És‚Á‚Ä‚«‚½uŒ’NƒLƒƒƒ“ƒy[ƒ“vuHˆçuÀv‚È‚Ç‚ÌŠˆ“®‚ª”F‚ß‚ç‚êA‚±‚Ì“xuŒ’N‚Ã‚­‚èŠˆ“®‚ÉŠÖ‚·‚é’mŽ––JÍv‚ðŽóÜ‚³‚¹‚Ä’¸‚­‚È‚ÇAŒp‘±“I‚ÈŠˆ“®‚ªŽÀ‚ðŒ‹‚Ñ‚Â‚Â‚ ‚è‚Ü‚·B
+¡Œã‚àA”÷—Í‚È‚ª‚çŒp‘±“I‚È’nˆæ‚Ö‚ÌvŒ£‚É“w‚ß‚Ä‚Ü‚¢‚è‚Ü‚·‚Ì‚ÅAŠF‚³‚Ü‚Ì‚²—‰ð‚Æ‚²Žx‰‡‚ðŽ’‚è‚½ƒ‹X‚µ‚­‚¨Šè‚¢\‚µã‚¯‚Ü‚·B
+–ÚŽŸ_______________________________________________________________________________"																																																																						
+"€‚ð…Žç‚µ‚Ü‚·B
+4     ˆÈ‰º‚Ì€–Ú‚ðd“_ŠÇ—ƒe[ƒ}‚Æ‚µ‚ÄŒp‘±“I‰ü‘PiƒVƒXƒeƒ€‰»j‚ð}‚è‚Ü‚·B
+(1)ŠÂ‹«‚É‚â‚³‚µ‚¢¤•iEƒT[ƒrƒX‚Ì’ñ‹ŸA“X•Ü‚Ã‚­‚è‚ði‚ß‚Ü‚·B (2)‰c‹ÆŠˆ“®‚É‚¨‚¯‚éÈƒGƒlƒ‹ƒM[EÈŽ‘Œ¹‚ð„i‚µ‚Ü‚·B
+(3)‰c‹ÆŠˆ“®‚É‚¨‚¢‚Ä—\‘ª‚³‚ê‚é”ro•¨‚É‘Î‚µA”­¶—}§iƒŠƒfƒ…[ƒXjEÄŽg—piƒŠƒ…[ƒXjEÄŽ‘Œ¹‰»iƒŠƒTƒCƒNƒ‹j‚ð„i‚µA”pŠü•¨‚ÌíŒ¸‚É“w‚ß‚Ü‚·B
+(4)’n‹…‰·’g‰»–hŽ~‚Ìˆ×‚ÌACO2‚Ì”roíŒ¸‹y‚ÑuAŽ÷Šˆ“®v‚Éu’nˆæ‚Ì‚¨‹q‚³‚Üv‚Æ‚Æ‚à‚ÉŽæ‚è‘g‚Ý‚Ü‚·B
+5.   ‚±‚Ì•ûj‚Í“–ŽÐ‚Å“­‚­]‹ÆˆõA‚¨‚æ‚Ñ“–ŽÐ‚ÌŽ–‹ÆŠˆ“®‚ÉŠÖ‚í‚é‚·‚×‚Ä‚Ìl‚ÉŽü’m‚³‚êAˆêl‚Ð‚Æ‚è‚ªŽ©‚ç‚Ì–ðŠ„‚ðŽ©Šo‚µs“®‚Å‚«‚é‚æ‚¤“w‚ß‚Ü‚·B
+6.   ‚±‚ÌŠÂ‹«•ûj‚ÍŽÐŠO‚É‘Î‚µ‚Ä‚àL‚­ŒöŠJŠJŽ¦‚¢‚½‚µ‚Ü‚·B
+2017”N8ŒŽ16“ú§’èƒ}ƒbƒNƒXƒoƒŠƒ…“ŒŠCŠ”Ž®‰ïŽÐ
+1S014001”FØŽ–‹ÆŠ
+146Ž–‹ÆŠi’·ò–{•”E•l¼Œ¤CƒZƒ“ƒ^[ŠÜ‚Þj‚Å”FØŽæ“¾
+1S014001‚Æ‚Í
+‘Û•W€‰»‹@\iInternational Organization for  Standardization)‚Ì—ª‚ÅA‚³‚Ü‚´‚Ü‚È‹KŠi‚ð¢ŠE“ˆê‚Å‰^
+—p‚·‚é‚±‚Æ‚ð–Ú“I‚ÉÝ—§‚³‚ê‚½ƒXƒCƒXiƒWƒ…ƒl[ƒuj‚É–{•”‚ð’u‚­‘gD‚Å‚·Bu1S014001v‚Æ‚ÍŠÂ‹«•‰‰×ŒyŒ¸‚Ì‚½‚ß
+‚Ì–Ú•WŠÇ—ƒVƒXƒeƒ€‚Ì”FØƒVƒŠ[ƒY”Ô†‚Å‚·B"																																																																	"P1   :‚²‚ ‚¢‚³‚Â
+E–ÚŽŸ
+P2   :•xŽmŽRŠÂ‹«•Û‘SŠˆ“®
+u•xŽmŽR‚ ‚è‚ª‚Æ‚¤vƒLƒƒƒ“ƒy[ƒ“•xŽmŽR‚Ý‚ª‚«‚ ‚¯ìí
+•xŽmŽRŠÂ‹«•Û‘S•å‹à
+‚²“–’nWAONiƒƒIƒ“j
+P4  :ß“dEƒGƒRƒw‚ÌŽæ‘g‚Ý
+P6  :“X“ª‚Å‚ÌƒŠƒTƒCƒNƒ‹Šˆ“®
+2018”N“xƒŠƒTƒCƒNƒ‹‰ñŽû—Ê
+‹“ûƒpƒbƒNEƒAƒ‹ƒ~ŠÊ‚ÌƒŠƒTƒCƒNƒ‹Šˆ“®
+ŠÂ‹«–â‘è‚Ö‚ÌŽæ‘g‚Ý‚ðwŒ`x‚É‚©‚¦‚ÄŽÔ‚¢‚·‚Ì‘¡’æ•û–@
+ŠeŒ§ŽÐ‰ï•ŸŽƒ‹¦‹c‰ï‚Ö‚ÌŠñ‘¡
+P7  [uƒŠƒTƒCƒNƒ‹ƒXƒe[ƒVƒ‡ƒ“v‚É‚Â‚¢‚Ä
+uƒŠƒTƒCƒNƒ‹ƒX’š[ƒ“ƒˆƒ“v‚Æ‚ÍŒÃŽ†‰ñŽû‚É‚Â‚¢‚Ä
+P8 GƒGƒRƒLƒƒƒbƒv‰^“®
+ƒGƒRƒLƒƒƒbƒv‰^“®‚Æ‚Í  ƒFƒRƒLƒƒƒbƒv‰^“®‚Ì—¬‚êAŽ÷Šˆ“®
+ƒNƒŠ[ƒ“•ƒOƒŠ[ƒ“Šˆ“®ƒNƒŠ[ƒ“Šˆ“®ŽÀÑ
+pg:”ƒ•¨‘ÜŽŽQ‰^“®‚Ì„i"																																"P10  :ƒCƒIƒ“K‚¹‚Ì‰©F‚¢ƒŒƒV[ƒgƒLƒƒƒ“ƒx[ƒ“‰©F‚¢ƒŒƒV[ƒgƒLƒƒƒ“ƒy[ƒ“    ‘¡’æ‚Ì—¬‚ê
+”N“x•Ê   ‰©F‚¢ƒŒƒV[ƒg•¬‹à      2014~2018”N“xj
+P11 F”íÐ’n‚ÌŽq‚Ç‚àŽx‰‡    ‰©F‚¢ƒŒƒV[ƒgƒLƒƒƒ“ƒx[ƒ“
+9”NŠÔ‚Ì—ÝŒv‘¡’æ‹àŠz
+•å‹àŠˆ“®
+2018”N“x•å‹àŽÀÑ
+P12Fl‚É‚â‚³‚µ‚¢“X•Ü‚Ã‚­‚è‚Ö‚Ì‚¢‚ë‚¢‚ë‚ÈŽæ‚è‘g‚Ý”Ÿ“ì’¬iÃ‰ªŒ§jŽqˆç‚ÄŽx‰‡Ž–‹Æ‚Ö‚Ì‹¦—Í
+e'‚Í‚Ü‚Ü‚ÂHdeŒ³‹C‰ž‰‡“X_‚Ö‚Ì‹¦—Í‚É‚Â‚¢‚Ä‚È‚ª‚¢‚¸‚ÝƒjƒRƒjƒRƒ^ƒEƒ“ƒw‚ÌŽQ‰Á
+–Ó“±Œ¢ƒ†[ƒU[Vƒ†ƒjƒbƒgo”­Ž®‚É‚Â‚¢‚Ä
+2018”N“xÃ‰ªáŠQŽÒ‹Z”\‹£‹Z‘å‰ï‚Ö‚Ì‹¦—Í
+ŽO“‡ŽsiÃ‰ªŒ§j‚Æu‚—îŽÒŒ©Žç‚èƒlƒbƒgƒ[ƒNv‚ÉŠÖ‚·‚é‹¦’è’÷Œ‹‚É‚Â‚¢‚Ä
+P13i’nˆæ‚Æ‚ÌÐŠQŽž‚É‚¨‚¯‚é˜AŒg
+Buddy BoxiƒoƒfƒB[ƒ{ƒbƒNƒXjFH‚Ì”õ’~’èŠú‘î”zƒT[ƒrƒX‚É‚Â‚¢‚Å’nˆæ‚Æ‚ÌÐŠQŽž‚É‚¨‚¯‚é˜AŒg
+ÐŠQŽž•¨Ž‘’²’B‹¦’è
+P14  :Hˆç‚ÌŽæ‘g‚Ý
+Žq‚Ç‚à‚ÌHˆçuÀEˆê”Ê‚Ì•û‚Ö‚ÌHˆçuÀ
+HˆçƒCƒxƒ“ƒgƒw‚ÌŽQ‰ÁEŽ©Ž¡‘ÌX“X•Ü   Œ’NƒLƒƒƒ“ƒy[ƒ“]‹Æˆõ‚Ö‚ÌHˆç
+•½¬30”N“xŒ’N‚Ã‚­‚èŠˆ“®‚ÉŠÖ‚·‚é’mŽ––JÜ   ŽóÜ
+P16  :Hˆç‚ÌŽæ‘g‚Ý
+ŠÇ—‰h—{ŽmŠÄC‘yØ‚Ì”Ì”„
+EŽY’n‚Ó‚ê‚ ‚¢eŽqŽûŠn‘ÌŒ±ƒcƒA[
+P17  :ƒRƒ~ƒ…ƒjƒeƒB[•›“X’·§“xA“X•ÜŒã•ûŽ{ÝŒ©Šw‰ïƒ_ƒCƒo[ƒVƒeƒB„i‚ÌŽæ‘g‚Ý
+—ŽqƒJƒAƒbƒv•×‹­‰ï
+P18GƒCƒIƒ“Eƒ}ƒbƒNƒXƒoƒŠƒ…“ŒŠCƒ`ƒA[ƒYƒNƒ‰ƒuŠˆ“®•ñ"																																		
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+"1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+environment"																																																																																																																																			
+"•xŽmŽRŠÂ‹«œÉ
+u•xŽmŽR‚ ‚è‚ª‚Æ‚¤vƒLƒƒƒ“ƒx[ƒ“‚ÍA‚¨‹q‚³‚Ü{ŽQ‰ÁŠé‹Æ‚³‚Ü{ƒ}ƒbƒNƒXƒoƒŠƒ…“ŒŠC‚ÌŽOŽÒ‚Ì‹¦—Í‚É‚æ‚ès‚Á‚Ä‚¢‚Ü‚·B
+yŽåŽ|z’nˆæ‚Åì‚èˆç‚ÝA‚»‚µ‚Ä’nˆæ‚ÅÁ”ï‚·‚éu’nŽY’nÁv‚Ì„i‹y‚Ñ•xŽmŽR‚Ì Œb‚Ý‚©‚ç‚Å‚«‚½¤•i‚â‚ä‚©‚è‚Ì‚ ‚é¤•i‚ð”Ì”„‚·‚é‚±‚Æ‚É‚æ‚èA’nˆæ‚ÌŠˆ«‰»‚ð} ‚é‚Æ‚Æ‚à‚É•xŽmŽR‚Ì”ü‰»EŠÂ‹«•Û‘SŠˆ“®‚ð‰ž‰‡‚·‚éŽæ‘g‚Ý‚Å‚·B2010”N‚æ‚èŽn‚ßA‚±‚ê‚©‚ç‚àH‚Ì”Ì”„‚ð’Ê‚¶‚Ä g’nˆæŽÐ‰ï‚Æ‚Ì‹¤¶f'‚Æ g”ü‚µ‚¢•xŽmŽR‚ðŒã¢‚ÉŽc‚·'f‚½‚ß‚ÉŒp‘±“I‚ÉŽæ‚è‘g‚ñ‚ÅŽQ‚è‚Ü‚·B ‚²‹¦—Í‚¢‚½‚¾‚­‚¨Žæˆøæ‚³‚Ü‚â‘ÎÛ¤•i‚ÍŠg‘å‚µ‚Ä‚¨‚è‚Ü‚·B
+y“à—ez‚¨‹q‚³‚Ü‚ªuƒLƒƒƒ“ƒy[ƒ“‘ÎÛ¤•iv‚ð‚²w“ü‚¢‚½‚¾‚­‚ÆA‚»‚Ì”„ã‚°‚Ì   \`c-9...m¥
+ˆê•”‚ð•xŽmŽR‚Ì”ü‰»E•Û‘SŠˆ“®‚Ì‚½‚ß‚ÉŠñ•t‚µ‚Ü‚·B"																																																																		"------------------------------[—¹\ -----------------------
+x–¤‚±A“–’nWAONiƒƒIƒ“j"																																																																	
+																																			"2018”N–›(2017”N–›•ªjŠñ•t‹àŠz†‰ªŒ§    4,700,000‰~
+ŽR—œŒ§         540,000‰~
+‡    Œv   5,240,000‰~"																																																																																																
+																																	"i‘¡cæFuÃ‰ªŒG•xŽmŽRŒã¢Œp³Šî‹àvuŽR—œŒ§vjŽQ‰ÁŠé‹Æ”        143ŽÐ
+Žæˆµ‚¢•i–Ú”    1,154•i–Ú"																																			"‚µ‚¸‚¨‚©•xŽmŽRWAON‘¡’æŽ®
+\"																																																															
+"xDDDDD›ßDDDDDD•xDDDDDDŽmDDDDDŽRDDDDD‚ÝDDDD‚ªDDDDD‚«DDDDD‚ DDDDD‚°DDDDDìDDDDDíDDDD
+’nˆævŒ£Šˆ“®‚ÌˆêŠÂ‚Æ‚µ‚ÄA2004”N“x‚©‚çu‚Ó‚¶‚³‚ñƒlƒbƒgƒ[ƒNv‚ÌŠˆ“®‚ÉŽQ‰Á‚µ‚Ä‚¨‚è‚Ü‚·B
+uŽ„‚½‚¿‚ÌŽè‚Å‚Ý‚ª‚«‚ ‚°‚æ‚¤•xŽmŽRc“ú–{ˆê‚«‚ê‚¢‚ÈŽREEv‚ðƒe[ƒ}‚ÉA’nŒ³Šé ‹ÆA’c‘Ì“™‚³‚Ü‚´‚Ü‚Èl‚ÌŽQ‰Á‚ð“¾‚È‚ª‚çAƒSƒ~‚ÌŽÀ‘Ô’²¸‚ðs‚¢‚Â‚ÂAƒSƒ~‚ð‚È‚­‚·‚½‚ß‚ÉA•xŽmŽR‚Ìž–ì‚Ì‚Ý‚ª‚«‚ ‚°Šˆ“® ‚ð’èŠú“I‚És‚Á‚Ä‚¢‚Ü‚·B                      2019”N3ŒŽ‚Ü‚Å24‘ŽÀŽ{ŽQ‰Ál”957l
+.......................................................
+“–ŽÐ‚ÍA“ÆŽ©‚Ì’nˆævŒ£Šˆ“®‚Æ‚µ‚Ä2003”N‚æ‚è‚±‚Ì•å‹àŠˆ“®‚ðŒp‘±“I‚ÉŽÀŽ{‚µ‚Ä‚¢‚Ü‚·B‚±‚Ì•å‹à‚Í•xŽmŽRŠÂ‹«•Û‘S‚Ì‚½‚ßA—lX‚ÈŠˆ“®‚É•L‚­—˜—p‚³‚ê‚Ä‚¢‚Ü‚·B”F’m“x‚ÍA”NXŒüã‚µ‚¨‹q‚³‚Ü‚Ì‚²‹¦—Í‚É‚æ‚è‘½‚­‚Ì•å‹à‚ªW‚Ü‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½B
+•å‹à‚ÍA‚²—˜—p“X•ÜŠÝ’n‚É‚æ‚èA2‚Â‚Ì’c‘Ì‚É•ª‚¯‚ÄŠñ•t‚³‚ê‚Ä‚¢‚Ü‚·B"																																											"†‰ªŒ§“à“X•Ü
+¨‚Ó‚¶‚³‚ñƒlƒbƒgƒ[ƒN ŽR—œ¥_“Þì¥ˆ¤’mŒ§“à“X•Ü
+¨•yŽmŽRƒ|ƒ‰ƒ“ƒeƒBƒAƒZƒ“ƒ^["																									"‚²—˜—p‹àŠz‚Ìˆê•”‚ª•l¼Žs‚ÉŠñ•t‚³‚êAX—ÑA‰Íì
+“™‚ÌŽ©‘RŠÂ‹«‚ðŽç‚èˆç‚Ä‚éŽ–‹Æ‚ÉŠˆ—p‚³‚ê‚Ü‚·B
+•yREƒ}ŽlŽl‘˜
+2016”N”­sŠJŽn‚ÌuƒTƒbƒJ[‘åD
+‚«WAONv‚ÍAu‚¢‚Â‚àƒNƒ‰ƒu‚ð‰ž"																																																															
+								"i•å‹à‚ÌŠˆ—p—áF‚Ó‚¶‚³‚ñƒlƒbƒgƒ[ƒNj
+ŠO—ˆA•¨‚Ì‹ìœì‹Æ
+•xŽmŽRŠÂ‹«•Û‘S‚ÉŠÖ‚·‚éŒ[”­•¨"														"i•å‹à‚ÌŠˆ—p—áF•xŽmŽRƒ|ƒ‰ƒ“ƒeƒBƒAƒZƒ“ƒ^[j
+ŽR—œŒ§•xŽmŽRƒŒƒ“ƒWƒƒ[‚É‚æ‚é•xŽmŽRuÀ‚ÌŽÀŽ{B"																										"‡Œv669,960‰~"															"‰‡‚µ‚Ä‚¢‚½‚¢v‚Æ‚¢‚¤ƒTƒ|[ƒ^[‚Ì
+‘z‚¢‚ðƒNƒ‰ƒu‚É“Í‚¯‚é‚¨”ƒ•¨ƒJ[ƒh‚Å‚·B‚±‚ÌWAON‚Ì‚²—˜—p‹àŠz‚Ì
+ˆê•”‚ªƒNƒ‰ƒu‚Ìƒz[ƒ€ƒ^ƒEƒ“Šˆ“®
+i¦j‚É–ð—§‚Ä‚ç‚ê‚Ü‚·B2018”N3ŒŽ‚Éu‘åD‚«ƒAƒXƒ‹ƒNƒ‰ƒWAONvA 7ŒŽ‚Éu‘åD‚«“¡Ž}MYFC  WAONv‚ªV‚½‚É‰Á‚í‚è‚Ü‚µ‚½B
+¦ŠeƒNƒ‰ƒu‚ªƒz[ƒ€ƒ^ƒEƒ“‚ÅŽæ‚è‘g‚ÞAƒXƒ|[ƒcU‹»‚âŒð—¬ƒCƒxƒ“ƒg‚È‚Ç‚Ì’nˆæU‹»Šˆ“®B"																																																																				
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+"1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+environment"																																																																																																																																			
+ß“dEƒGƒRƒw‚ÌŽæ‘g‚Ý																												"eco8
+’nŽY’nÁ‚É‚æ‚é’nˆæŠˆ«‰»‚ÌŽæŒ¦‚Ý"																																																																																																							
+"___________________ eco3
+ƒGƒlƒ‹ƒM[Œø—¦‚Ì—Ç‚¢—â“€ƒP[ƒX
+—â“€ƒP[ƒX‚ÉƒhƒA‚âƒXƒ‰ƒCƒhƒhƒA‚ðŽæ‚è•t‚¯‚½ƒP[ƒX‚ðŽg—p‚µAƒGƒlƒ‹ƒM[Œø—¦‚ðã‚°‚Ä‚¢‚Ü‚·B
+eco4_________________________________eco5
+ƒŠƒTƒCƒNƒ‹ƒXƒe[ƒVƒ‡ƒ“
+‚¨‹q‚³‚Ü‚Ì‰ñŽû—v–]‚Ì‘½‚¢ŒÃŽ†‚Æ‰ñŽû¯‚Ì‘½‚¢ƒyƒbƒgƒ{ƒgƒ‹‚É‚Â‚¢‚ÄA‚¨Ž‚¿‚É‚È‚Á‚½—Ê
+‚É‰ž‚¶‚ÄAWAONƒJ[ƒh WAONPOINTƒJ
+[ƒh‚Éƒ|ƒCƒ“ƒg‚ª•t‚­‰ñŽû‹@‚ð“±“ü‚µ‚Ü‚µ‚½B"																																																																					"“–ŽÐ‚ÌƒXƒ[ƒKƒ“‚É‚à‚ ‚è‚Ü‚·u’nˆæ–§’…Œo‰c‚ÌŽÀ‘Hv‚ÌŽæ‘g‚Ý‚Ìˆê‚Â‚Æ‚µ‚ÄAu‚¶‚à‚Ìv¤•i‚ð”­Œ@A”Ì”„‚·‚é‚±‚Æ‚É‚æ‚èu’nŽY’nÁv‚ð„i‚µA’nˆæŠˆ«‰»‚ÉvŒ£‚µ‚Ü‚·B
+’nˆæ‚Å¶‚Ü‚êA’nˆæ‚Åˆ¤‚³‚ê‚Ä‚¢‚éu‚¶‚à‚Ìv¤•i‚ð”­Œ©‚·‚é‚½‚ßA6ŒŽ13“ú‚É“–ŽÐ‘SƒGƒŠƒA364ŽÐ‚Ìƒ[ƒJ[‚³‚Ü‚Æ“–ŽÐ‚Ì1,216–¼‚Ì]‹Æˆõ‚ªŽQ‰Á‚µu‚¶‚à‚Ìv‘å¤’k‰ï‚ðŠJÃ‚µ‚Ü‚µ‚½B
+eco9
+x‰Í˜p‚Ì•Û‘SŠˆ“®‚É‚Â‚¢‚Ä
+x    ˜p‚ªA2016”N11ŒŽ‚Éw¢ŠE‚ÅÅ‚à”ü‚µ‚¢˜pƒNƒ‰ƒuI  ‚É‰Á–¿‚µ‚½‚±‚Æ‚ðŽó‚¯A“¯˜p‚ÌŠÂ‹«•Û‘S‹y‚Ñ‚³‚ç‚È‚é”F ’m“xŒüã‚ð–Ú“I‚Æ‚µ‚ÄA2      ”N10ŒŽƒTƒbƒ|ƒƒr[ƒ‹iŠ”j‚³‚Ü‚ÆƒTƒbƒ|ƒ¶ƒs[ƒ‹•ƒ‰ƒxƒ‹ux‰Í˜pŠÊv‚ð”Ì”„‚µA 2018”N4ŒŽx‰Í˜p‚ðƒfƒUƒCƒ“‚µ‚½   •i‘æ2’e‚Æ‚µ‚ÄA5ŽÐ ‚³‚Ü‚Æ10ŒŽ‚É‘æ3’e17Ží—Þi“àÄ”­”„2Ží—Þj‚ð”Ì”„‚¢‚½‚µ‚Ü‚µ‚½Bx‰Í˜p‚É–Ê‚·‚é11Žs’¬‚É‚ä‚©‚è‚Ì‚ ‚éŠé‹Æ‚³‚Ü‚ÆuÃ‰ªŒ§‚ªŒÖ‚éx‰Í˜p‚ð–¢—ˆ‚ÉŒq‚°‚é‚½‚ßv‚Æ‚¢‚¤‹¤’Ê‚Ì‘z‚¢‚Ì‚à‚ÆA‹¤“¯‚É‚ÄŠé‰æŠJ”­‚¢‚½‚µ‚Ü‚µ‚½BŠe ¤•i‚Ì”„ã‚Ìˆê•”‚ðx‰Í˜p‚ðŽç‚é‚½‚ß‚Ì
+Šˆ“®‚ÉŠñ•t‚³‚¹‚Ä‚¢‚½‚¾‚­—\’è‚Å‚·B
+‚±‹¦—ÍŠé‹Æ‚³‚Ü    16ŽÐ
+‘ÎÛ¤•i          22Ží—Þ (2019”N2ŒŽŒ»Ýj
+eco10"																																																														
+																																																																																																																																			
+"eco6
+’nê–ìØ‚ÌŽæ‘g‚Ý
+ˆÀ‘SEˆÀSA’nŽY’nÁA’nˆæŠˆ«‰»‚È‚Ç‚ð–Ú“I‚É’nê–ìØƒR[ƒi[‚É—Í‚ð“ü‚ê‚Ä‚¢‚Ü‚·B"																			"eco7
+ƒ}ƒbƒNƒXƒoƒŠƒ…“ŒŠC‘S‘Ì‚Ì‘¾—zŒõ”­“d‚ÌŽæ‘g‚Ý
+27“X•Ü‚ÅŒp‘±‰^—p‚µ‚Ä‚¢‚Ü‚·B
+MEA_‚à‘Ë•RoU‰·K¥¦MV‚Íƒ}ƒbƒNƒXƒoƒŠƒ…‚Ì—ª"																																									2018”N“x_jƒTƒCƒNƒ‹—Ê288.3t																																“–ŽÐ‚Å‚ÍA‘yØ‚ð»‘¢‚·‚éÛ‚É”­¶‚·‚éu“V‚©‚·vuƒtƒ‰ƒC‚©‚·v‚ðƒŠƒTƒCƒNƒ‹‚·‚éŽæ‘g‚Ý‚ð101“X•Ü‚ÅŽÀŽ{‚µ‚Ä‚¢‚Ü‚·B‚±‚ÌŽæ‘g‚Ý‚ÍAu“V‚©‚·vuƒtƒ‰ƒC‚©‚·v‚É‚æ‚é‰ÎÐ‚Ì‘Îô‚É‚à‚È‚Á‚Ä    ‚Ü‚·B																																							
+																						"ƒUEƒsyƒO‘å{‰ê“X MV–L‹´‹´—Ç“XEƒUEƒrƒbƒOb•{’·¼Ž›“X
+ƒUEƒrƒbƒOb•{Z‹g“X MV•Ÿ“c“XEƒUEƒrƒbƒOÃ‰ªV“`”n“X
+MV•xŽm‹{Žá‹{“XMVƒGƒNƒXƒvƒŒƒX”BŽR“X
+ƒUEƒsyƒOŽR—œ’†‰›“XEMV•xŽm”ª”¦’¬“XEMV’·ò’|Œ´“X
+MVˆÉ“ŒL–ì“XMV•xŽm•xŽmŒ©‘ä“XMVÀ’Ã“ì“X"																											"…P               …P
+“V‚Õ‚ç‚©‚·‚ðƒy[ƒ‹ŠÊ‚É“ü‚êA—â‚â‚µ‚Ü‚·B       —â‚¦‚½‚çAƒhƒ‰ƒ€ŠÊ‚É“ü‚ê‚Ü‚·B   ƒhƒ‰ƒ€ŠÊ‚É‚½‚Ü‚é‚Æ‹Æ"																																																																																		
+																						ƒUEƒrƒbƒOÃ‰ªìŒ´“XƒUEƒsƒ\  “¡Ž}“cÀ“X ƒUEƒrƒbƒO•xŽm‹g“c“XEƒUEƒrƒbƒO•xŽmr“c   “X MVÃ‰ª‹È‹à“XƒUEƒrƒbƒOÃ‰ª“o˜C“X																				…PƒRƒR         																																																							"ŽÒ‚³‚ñ‚ª‰ñŽû‚µ‚Ü‚·B
+iƒoƒCƒIƒfƒB[ƒ[ƒ‹”R—¿j   w¶ƒSƒ~x‚©‚ç"																																		
+																						"MVƒGƒNƒXƒvƒŒƒX•xŽm…ŒË“‡“XMVK“c“X
+MV•xŽm‹{–œ–ìŒ´“XMV´…”ªâ“XMV•xŽm]”ö“X
+MV’·ò’†“yŽë“XMVÀ’Ã–ö’¬“XiÝ’u‡j"																								š ‚É¸»‚µ‚Ü‚·B‚±r																																															0‘ŠŽ1										•Å“¤j‚ÉƒŠƒTƒCƒNƒ‹‚µ‚Ü‚·BwŽ‘Œ¹x‚Ö																												
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+"1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+environment
+“X“ª‚Å‚ÌƒŠƒTƒCƒNƒ‹Šˆ“®                                                               uƒŠ             ƒXƒe[ƒVƒ‡ƒ“v‚É‚Â‚¢‚Ä
+áuƒŠƒTƒCƒNƒ‹ƒXƒe[ƒVƒ‡ƒ“v‚Æ‚Í"																																																																																																																																			
+Dt_A2018”N“xƒŠƒTƒCƒN         ____																																"2018”N“x‚É‚ÍAWAONPOINTƒJ[ƒh‚ð‚¨Ž‚¿‚Ì‚¨‹q‚³‚Ü‚àAWAONƒJ[ƒh“¯—l‚ÉWAONƒ|ƒCƒ“ƒg‚ª•t—^‚³‚ê‚é‰ñŽû‹@‚ðð”N‚Éˆø‚«‘±‚«A7‘äÝ’u‚¢‚½‚µ‚Ü‚µ‚½B
+*WAONƒJ[ƒh‚Ì‚Ý—˜—p‰Â”\ 3“X•Ü"																																																																																																			
+‹“ûƒpƒbƒN																	–Ë9   H•iƒgƒŒ[E“§–¾ƒgƒŒ[																						ƒAƒ‹ƒ~ŠÊ																	ƒxƒbƒgƒ|ƒgƒ‹																																														"ƒUEƒrƒbƒO•x“y‹g“c“XEƒUŽµƒbƒOb•{˜aŒË“XEƒUEƒrƒbƒO‹ùŒ`“X
+*WAONƒJ[ƒh\WAONPOINTƒJ[ƒh—˜—p‰Â”\
+26“X•Ü
+MV’·ò’†“yŽë“XEMV’·ò’|Œ´“X MV•yŽm‹{Žá‹{“XEMV•xŽm‹{–œ"																													
+																																																																																																																																			
+								"239,1  0kg"										"J   2018”N“x    436,654kg"																"2    18”N“x    409,270kg"																		201																																																																															
+																																																																																																																																			
+"‹--“û---ƒn--ƒb--ƒN--E--ƒA--ƒ‹--ƒ~--ŠÊ---‚Ì--ƒŠ--ƒT--ƒCƒNƒ‹Šˆ“®
+"".f..ŽX.....‹«.....–â......‘è.....‚Ö......‚Ì.....Žæ......‘g.....‚Ý......‚ð.....w.....Œ`......x.....‚É......‚©.....‚¦......‚Ä....
+2015”N`2018”N“x‹“ûƒpƒbƒNEƒAƒ‹ƒ~ŠÊƒŠƒTƒCƒNƒ‹‰ñŽû„ˆÚ"																																																																																																																																			
+																																																																																																						"–ìŒ´“X MV•xŽm‹{‹{Œ´“XEƒUEƒsƒ\ƒOb”ã•~“‡“X MV”Ÿ“ìŠÔ‹{“XE MVˆÉ“¤’·‰ª“X_MVŒä“aê”‹Œ´“X_MVC‘PŽ›‰w‘O“X_MV•x“y‹{’©“ú’¬“X MV•xŽm•xŽmŒ©‘ä“X MV`–ìa‘ò“X MVŒä“aêV‹´“XEMVŒä“aê•xŽm‰ª“XEƒUEƒRƒ“ƒ{Œú–ØÈ“c“X MVŒä“aêŒ´—¢“X MV”Ö“c’†ò“X_MVž–ì’ƒ”¨“XEƒUEƒrƒbƒO‘Š–ÍŒ´“Œ‹´–{“X MV˜W‹´‹´—Ç“X_ MVŒä“aê“Œ“c’†“XEƒUEƒrƒbƒOŒÎ¼“X_MV•l¼ˆ¨¼“X MV‘Üˆä–L‘ò “X MVŽO“‡ˆë’¬“c“X    (20  l 9”N2ŒŽŒ»Ý    29“X•Üj
+¦WAONƒJ[ƒh‚Ì‚Ý—˜—p‰Â”\‚È‰ñŽû‹@‚©‚çWAONPOINTƒJ[ƒh‚à—˜—p‚Å
+‚«‚é‰ñŽû‹@‚É5“X•Ü‚ª•ÏX‚É‚È‚Á‚Ä‚¨‚è‚Ü‚·B"																													
+																																																																																																																																			
+								‚²		‹“ûƒpƒbƒN												ƒAƒ‹ƒ~ŠÊ														Œv																	"‡Œv
+j Žû“ü‹ài‰~j"					"Šñ‘¡
+‘ä”"																																																																									
+																																				‰~j						ŒJ‰z‹ài‰~					j‰^”À”ï“™i‰~																																																																																				
+								2015”N“x		"228,870kg"			100 3%				"1,347,830"					"374,235kg"					104 5%				"19,172,430"					"20,520,260"											"17,277,223"						3					86‘ä																																																																									
+								20		"236,390kg"			1032%				"1,388,150"					"386,803kg"					103 3%				"16,947,085"					"18,335,235"						"6,013"					"15,042,560"						"286,662"					86‘ä																																																																									
+								D		"233,110kg"			986%				"1,371,250"					"386,651kg"					99 9%				"24,433,050"					"25,804,300"						"11,402"					"22,656,815"						"3,142,096"					86‘ä																																																																									
+										"239,100kg"			102 5%				"1,405,960"					"409,270kg"					105 8%				"27,452,090"					"28,858,050"						”N“x‘¡’æ—\’è																																																																																									
+æÛŽÔ‚¢‚·‘¡’æ‚Ì•û–@																																																																																																																																			
+ƒŠƒTƒCƒNƒ‹Ž–‹ÆŽÒ‚ª‰ñŽûA”„‹p‚µAƒ}ƒbƒNƒXƒoƒŠƒ…“ŒŠC‚ÖŽû‰v‹à‚ðU‚èž‚Ý‚Ü‚·B																															"Žû‰v‹à‚©‚çŒo”ï“™‚ð·‚µˆø‚¢‚½‹àŠz‚Ìˆê•”‚ðŽg—p‚µ‚ÄŽÔ‚¢‚·‚ðw“ü‚µ‚Ü‚·B
+n¡="																			‹ß—×‚Ì“X•Ü‚ªŠeŽÐ‰ï•ŸŽƒ‹¦‹c‰ï‚ÉŽÔ‚¢‚·‚ðŠñ‘¡‚µ‚Ü‚·B																																																																																	
+																																																																	áŒÃŽ†‰ñŽû‚É‚Â‚¢‚Ä																											"eaŽM9
+‰ñŽû—Ê5,101.St
+ŽÀŽ{“X•Ü53“X•Üœ
+¦ã‹L“à—e‚É‚ÍƒŠƒTƒCƒNƒ‹
+ƒXƒe[ƒVƒ‡ƒ“‚ðŠÜ‚Ý‚Ü‚·B"																"MV•l¼—§–ì“X MV”Ö“c¼ŠL’Ë“X_MV•xŽm]”ö“XEƒUEƒrƒbƒO•l¼”‹‹u“X MVƒGƒNƒXƒvƒŒƒX•xŽm…ŒË“‡“X MVÃ‰ªŠÛŽq“XEƒUEƒrƒbƒO‘å“Œ“XEƒUEƒrƒbƒOŠ—Œ´“XEƒUEƒrƒbƒO‘å{‰ê“X_MVÃ‰ª‹È‹à“X MV•l–k’†£“X MVÀ’ÃŒ´’¬“XE MV•xŽmŒúŒ´“XEƒOƒ‰ƒbƒe’·ò“XEƒLƒ~ƒTƒ‰Á–Îì“XEƒLƒ~ƒTƒ‚¹‚¹‚ç‚¬ƒp[ƒNŽOD“X MVC‘PŽ›“X MV”Ÿ“ì‘å“y”ì“XEMVÀ’ÃƒJƒ^ƒNƒ‰ƒp[ƒN“XEƒOƒ‰ƒbƒeŠÑ“X MV“‡“cˆ¢’mƒ–’J“X MV´…ŽO•Û“XEƒUEƒrƒ\ƒOÃ‰ª–L“c“X_MVž–ì“X
+(2019”N2ŒŽŒ»Ý    24“X•Üj"																							
+								‚ÓŠeŒ§ŽÐ‰ï•ŸŽƒ‹¦‹c‰ï‚Ö‚ÌŠñ‘¡        ˆê																																																																																																																											
+																																																																																																																																			
+Ã‰ªŒ§ŽÐ‰ï•ŸŽƒ‹¦‹c‰ï                               ŽR—œŒ§ŽÐ‰ï•ŸŽƒ‹¦‹c‰ï                             _“ÞìŒ§`–ìŽsŽÐ‰ï•ŸŽƒ‹¦‹c‰ï    ˆ¤’mŒ§¼”öŽsŽÐ‰ï•ŸŽƒ‹¦‹c‰ï																																																																																																																																			
+																																																																																																																																			
+																•l¼ŽsŽÐ‰ï•ŸŽƒ‹¦‹c‰ï    —l‚Ö																																																																																																																			
+																u‹“ûƒoƒbƒNvuƒAƒ‹ƒ~ŠÊv‚ÌƒŠƒTƒCƒNƒ‹Šˆ“®																																																																																																																			
+																"Šñ
+Œm"	ƒ}ƒbƒNƒXƒpƒŠƒ…•l¼˜a“c“Xƒ}‚²ƒb˜aƒNl/lƒXl‚Ìƒp‚¨ƒŠ‹qƒ…‚³‚Ü“Œ‹yŠC‚ÑoŠX																																																																																																																		
+																																															"2017”N“x‚æ‚èAŽÔ‚¢‚·‚ð•ÏX‚µ‚Ä‚¢‚Ü‚·B
+œ“Á’·
+E”w‚à‚½‚ê‚ÉŠÉ‚â‚©‚ÈŠp“x‚ª‚ ‚è‚Ü‚·B
+EƒtƒbƒgƒTƒ|[ƒg‚Ì‚‚³’²®‚ªƒG‹ï‚È‚µ‚Å‚Å‚«‚Ü‚·B"																																																																																				
+																	Šñ‘¡”NŒŽ“ú      •½¬30”N11ŒŽ‹g“ú																																																																																																																		
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+										"1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+env ronmen"																																																																																																																									
+ƒF--ƒR---ƒL--ƒƒ--ƒb--ƒt--‰^---“®----------------------------------------																																																																			"”ƒ•¨‘ÜŽŽQ‰^“®‚Ì„i
+ƒŒƒW‘Ü–³—¿”z•z’†Ž~‚Æ‚Ícc
+ƒPƒbƒg‚ðŽŽQ‚µ‚Ä’¸‚«AƒŒƒW‘Ü‚ð‚ðŽÀŽ{‚µ‚Ä‚¨‚è‚Ü‚·B"																																																																
+																																																																																																						ƒŒƒW‘Ü–³—¿‰ÂŽù“X–ã—ÛŒ¾æÛ																													
+																																																																																																					156“X•Ü’†																														
+																																																																																																									_æml_                         å]																										
+																																																																																																																									"2009”N
+2ŒŽ2“ú
+MVž–ì“X MVž–ì’ƒ”¨“X
+MVƒxƒ‹ƒVƒeƒBž–ì“X"										
+																																																																																																																ADDD  ¬ŽR’¬																			
+						"“úƒGƒLƒƒƒbƒv‘J“®‚Æ‚Í
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+ƒyƒbƒgƒ{ƒgƒ‹‚ÌƒLƒƒƒbƒv‚ðW‚ß‚ÄƒŠƒTƒCƒNƒ‹‚µAŠCŠO‚ÌŽq‚Ç‚à’B‚ÉƒƒNƒ`ƒ“ ‚ð’ñ‹Ÿ‚·‚éƒ{ƒ‰                “®‚ÅAco       ‚É‚àŠñ—^‚µ‚Ü‚·B’nˆæ‚ÌŠwZAƒ{ƒ‰ƒ“ƒeƒBƒA’c‘ÌAŠé‹ÆAŒÂl‚È‚Ç—lX‚È•ûX‚ª‚²‹¦—Í‚ð‚µ‚Ä‚­‚ê‚Ä‚¢‚Ü‚·B
+‰ñŽû‚µ‚½ƒLƒƒƒbƒv‚ÍƒŠƒTƒCƒNƒ‹‹ÆŽÒ‚³‚Ü‚Éˆø‚«Žæ‚Á‚Ä‚¢‚½‚¾‚«AŽû‰v‹à‚Í
+u¢ŠE‚ÌŽq‚Ç‚à‚ÉƒƒNƒ`ƒ“‚ð“ú–{ˆÏˆõ‰ïv‚ÉŠñ•t‚µ‚Ü‚·B“¯ˆÏˆõ‰ï‚Í“Œ“ì"																																																														iƒŒƒW					"•z’†Ž~        •½‹ÏŽ«‘Þ—¦81.
+¥                        MVÃ‰ªŠÛŽq“X
+ƒUEƒrƒbƒOÃ‰ªV“`”n“XEƒUEƒrGGƒOÃ‰ªVì“X
+1“úƒUEƒrƒbƒOÃ‰ªìŒ´“XEƒUEƒr              “X
+M‰ª‹È                       Ã“X"																						"áe
+MVƒGƒNƒXƒvƒŒƒX’·ò“X MV’·ò’|Œ´“X
+MV’·ò’†“yŽë“XƒOƒ‰ƒbƒe’·ò“X
+""""19
+MV
+•x“y‹{‹{Œ´“X
+–œ–ìŒ´‹{’©“ú"																																				
+ƒAƒWƒA‚ð’†S‚ÉAƒ|ƒŠƒI‚È‚Ç‚ÌƒƒNƒ`ƒ“‚ð‘¡‚Á‚Ä‚¢‚Ü‚·B																																										‰ñŽûd—Ê							ƒyƒbƒgƒ{ƒgƒ‹ƒLƒƒƒbƒv”—Ê											ƒƒNƒ`ƒ“”																																																																							
+																																																																																																																																			
+																																				2014”N“x						"68,460kg"							"29,437,800"											"34,230"																																																																							
+																																				2015”N“x						"75, 110kg"							"32,297,300"											"37,555"																																								"CZE9
+ˆ¨‹æ"								"•xŽm‹{Žs
+•xŽmŽs"								"Œä“aêŽs
+ž–ìŽs’·ò’¬"					V”Ÿ“ì‘å“y”ì“X										
+																																				2016”N“x						"84,830kg"							"36,476,900"											"42,415"																																																																							
+																																				2017”N“x						"102,710kg"							44											5																																																																							
+																																				8”N“x						"105,473kg"							"4,353,390"											"52,736"																																																																							
+“úƒFƒRƒLƒƒƒbƒv•Õ“®‚Ì—¬‚ê																																																																																										ìª–{’¬																																									
+																																																																																																																																			
+																																					¦2014”N“x‚æ‚èƒFƒRƒLƒƒƒbƒvŒy—Ê‰»‚ðl—¶‚µAƒLƒƒƒbƒv860ŒÂi–ñ2kg)‚Åƒ|ƒŠƒIƒƒNƒ`ƒ“1l•ª‚ÅŒvŽZ‚µ‚Ä‚¨‚è‚Ü‚·B																																																											Ã‰ªŽs             É…‹æ													"À’ÃŽs    ŽO“‡ŽsDDDD
+´…’¬DD.D..D”Ÿ“ì’¬–›
+ˆÉ“¤‚Ì‘Žs    EEEE‚É...  201 1”N"																						
+																																																																																																																																			
+																																																																																							“V—³‹æ																																												
+																																																																																																																																			
+																																																																														"”VM‹TD“ceee                                  ƒX
+¼‹æ                                                                                    M_.€’¬ eRŒÚ”B‘_"																																		¼è’¬‰º“c®DDD											¥ E‚¶”©Šäw								
+																																														|u¢ŠE‚ÌŽq‚Ç‚à‚ÉƒƒNƒ`ƒ“‚ð“ú–{ˆÏˆõ‰ï(JCV)v																																																																																					
+																																																																																																																																			
+"AŽ÷Šˆ“®
+---------------------------------------------------
+ƒCƒIƒ“ƒOƒ‹[ƒv‚ª„i‚µ‚Ä‚¢‚Ü‚·AŽ÷Šˆ“®‚ðA‚¨‹q‚³‚Ü‚Æ‚Æ‚à‚ÉŽÀŽ{‚µ‚Ä‚¢‚Ü‚·B“Á‚ÉAV“X‚ðŠJ“X‚µ
+‚½Û‚É•~’n‚ªL‚¢ê‡‚É‚ÍAŽ÷Õ‚ðŠJÃ‚µA’nˆæ‚Ì"																																																																																																																																			
+																																																																"“ú
+MV‘Üˆä–L‘ò“X"																							ƒUEƒsƒbƒO‘å“Œ“X							"Œä           __.          ‚¶‘M‰€    M      Žm“X    Œ´“X
+_           ƒUEƒrƒbƒO‹g“c“X
+Žs9       €"																				"“ì                M¥,               MVˆÉ“¤’·‰ª“X
+ˆÉ               eA.          MVƒGƒNƒXƒvƒŒƒX”BŽR“X
+“¤               e                MVƒGƒNƒXƒvƒŒƒX‘åm“X
+’¬
+2009”N
+_7
+MVC‘PŽ›“X MVC‘PŽ›‰w‘O“X
+¦‹LÚ”NŒŽ“ú‚ÍƒŒƒW‘Ü–³—¿”z•z’†Ž~‚ÌƒXƒ^[ƒg“ú‚Å‚·B"																	
+						"‚¨‹q‚³‚Ü‚É‚²ŽQ‰Á‚¢‚½‚¾‚«A‚»‚Ì’nˆæ‚ÉÌ‚©‚çŽ©¶
+‚µ‚Ä‚¢‚½ŽíX‚Ì•c–Ø‚ðA‚¦Au—Î‚ðˆç‚ÞSv‚ð’nˆæ‚ÉL‚°‚Ä‚¢‚Ü‚·B"																				ƒUEƒrƒbƒO‘å{																																																																				MV•l‰ª“X					ƒUEKƒsƒbƒO‹à’J“X MV“‡“cˆ¢’mƒ–’J“X															¦MV‚Íƒ}ƒbƒNƒXƒoƒŠƒ…‚Ì—ª‚Å‚·B																	
+																																																																							"”ƒ‹]‘Üiƒ}ƒCƒoƒbƒOEƒ}ƒCƒoƒXƒPƒbƒgjŽŽQ•Õ“®‚Æ‚Íc
+‚¨‹q‚³                       ‚ÞŠˆ“®‚Æ‚µ‚ÄA1Ž‘               A2DƒSƒ~‚ÌíŒ¸3”pƒv             ƒN‚ÌŠÂ‹«‰˜õ–hŽ~‚ÌˆêŠÂ‚Æ‚µ             ‘ÜŽŽQ‰^“®v‚ðŽÀŽ{‚µAƒŒƒW‘Ü          ‚É‚ß           ‚è‚Ü‚·B  ‚Ü‚½A‘Ü‹l‚ß‚ÌŽèŠÔ‚ª–³‚­‚È‚é•Ö—˜‚Èuƒ}ƒCƒoƒXƒPƒbƒgvA‚¨”ƒ•¨—pƒ}ƒCƒoƒbƒO‚ð”Ì”„‚µAƒŒ
+ƒW‘Ü‚ÌíŒ¸‚ðÏ‹É“I‚É„i‚µ‚Ä‚¨‚è‚Ü‚·B"																																																												
+"ƒNƒŠ[ƒ“•ƒOƒŠ[ƒ“Šˆ“®_____________________________________
+’nˆæ‚ÌŠÂ‹«”ü‰»Šˆ“®‚É                             ‚ñ‚Å‚¢‚Ü‚·B–ˆŒŽ1‰ñA“X•ÜŽü•Ó‚Ì“¹˜H‚âAŒö‰€‚È‚Ç‚ÌŒö‹¤Ž{Ý‚Ì´‘|Šˆ“®‚ð2000”N10ŒŽ‚æ‚è‘±‚¯‚Ä‚¢‚Ü‚·B
+HK‚è
+.ƒN....ƒŠ.....[....ƒ“.....Šˆ....“®.....ŽÀ.....Ñ................
+W"																																																																																																																																			
+																																																																			"ƒŒƒW‘ÜíŒ¸‚ÌŽÀÑ__________
+2018”N“x
+74,366,869–‡
+‚ªíŒ¸‚³‚ê‚Ü‚µ‚½B"																"”ƒ•¨‘ÜŽŽQ‰^“®‚ð„i‚·‚é
+3‚Â‚Ì——R
+1DŽ‘Œ¹‚Ìß–ñ
+2DƒRƒ~‚ÌíŒ¸
+”p   ƒ‰ƒXƒ`ƒbƒN‚ÌçW‹«‰˜õ–hŽ~
+’nˆæÃ‰ªŒ§ŽR—œŒ§
+ˆ¤’mŒ§"																								"ƒ}ƒCƒoƒbƒO                             ƒ}ƒCƒoƒXƒPƒbƒg
+Šñ•t‹àŠz"																								
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+ŽÐ‰ïvŒ£Šˆ“®																																																																																																																																			
+"1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+company's social   ontribution activity"																																																																																																																																			
+"–ˆŒŽ11“ú‚ÌuƒCƒIƒ“Eƒf[v‚É‚ÍA‚¨‰ïŒv‚ÌÛƒŒ       ‚ÄA‰©F‚¢ƒŒƒV[ƒg‚ð‚¨“n‚µ‚µ‚Ä‚¢‚Ü‚·B
+‚ÉŠñ‘¡‚µ‚Ä‚¢‚Ü‚·B‚¨”ƒ•¨‚ÌÛ‚É‹CŒy‚ÉŽQ‰Á‚Å‚«‚éŽÐ‰ïvŒ£Šˆ“®‚Æ‚µ‚Ä‘½‚­‚Ì‚¨‹q‚³‚Ü‚æ‚è‚²‹¦—Í‚ð‚¢‚½‚¾‚¢‚Ä    ‚è‚Ü‚·B
+R.....ä......‚¢......ƒŒ......ƒV......[......ƒg......ƒL......ƒƒ......ƒ“......ƒx......[......ƒ“......‘¡......’æ......‚Ì......—¬.....‚ê...................................................................."																																																																													‚±‚ê‚Ü‚Å‚Ì9”NŠÔA‚¨‹q‚³‚Ü‚Æ‚Æ‚à‚É																																								"3ŒŽ‚Ì‰©F‚¢ƒŒƒV[ƒg‚ÍA“Œ–k‚ÌŽq‚Ç‚à‚½‚¿‚Ì‰ž‰‡‚ÉB
+œœ’†Aœœ‚³‚Ü9‚±œœ‚µ‚·‚émŠÑF‚¢VƒV[ƒgv‚ðœ“à‚Éœœ‚³‚ê
+‚Ä‚¢œœœ BOX9‚±‚²“ŠŒ—‚¢‚½‚¾‚­‚ÆADDã‚°VƒV[ƒg“¶E‡   ‚Ì           œ‚ðAu‚¢‚í‚Ä‚Ìœ‚ÑŠó–]Šî‹×vu“Œ“ú–Ø‘åœÐ‚Ý‚â‚¬‚±‚Ç‚à™hŽÀ•å‘qvu“Œ“ú–{‘åœÐ‚Ó‚­‚µœ‚±‚Ç‚àœœŽPI9‚±œ•t‚µœ‚·
+“ÐÐ—…‰[l
+3/9i“yj`3/11iŒŽj"														
+æi!!‚ðq—ìŽù_ti AŒû																																																																																																																																			
+–ˆŒŽ11“ú‚ÍƒCƒIƒ“Eƒf[‚Å‚·BƒŒƒW‚É‚Ä”­s‚³          F‚¢ƒŒƒV[         ‚¯Žæ‚è‚Ü‚·B																"‰©F‚¢ƒŒƒV[ƒg‚ð“X“à‚É‚ÄÝ’u‚³‚ê‚Ä‚¢‚éƒŒƒV[ƒg“Š”Ÿƒ{ƒbƒNƒX‚É“Š”Ÿ‚¢‚½‚¾‚«‚Ü‚·Bƒ{ƒb      ‚É‚Í’nˆæ‚ÅŠˆ–ô‚³‚ê‚Ä‚¢‚éƒ{ƒ‰
+ƒ“ƒeƒBƒA’c‘Ì‚Ì–¼Ì‚ÆŠˆ“®“à—e‚ª–¾‹L‚³‚ê‚Ä‚¢
+‚Ü‚·B"																	3ŒŽ11“ú‚©‚ç2ŒŽ11“ú‚Ü‚Å‚Ì1”NŠÔ•ª‚Ì“Š”ŸƒŒƒV[ƒg‡ŒvŠz‚ðWŒv‚µ‚Ü‚·B“Š”ŸƒŒƒV[ƒg‚Ì 1“‚Ì‹àŠz‚ðƒ{ƒ‰ƒ“ƒeƒBƒA’c‘Ì‚Ö‚¨’m‚ç‚¹‚µ‚Ü‚·B																"“Š”ŸƒŒƒV[ƒg‹à       1
+ƒ`ƒƒ[‚³‚ê      ƒtƒgƒJ[‚ðƒ{ƒ‰ƒ“ƒeƒBƒA’c‘Ì‚É‘¡’æ‚µ‚Ü‚·B‚»‚ÌƒMƒtƒgƒJ[ƒh‚ðŽg‚Á‚ÄŠˆ“®‚É•K—v‚È¤•i‚ðw“ü‚¢‚½‚¾‚«
+‚Ü‚·B‚µ"																																																														|||l:`    :21:[												"[I]| ||
+n"								
+																																																C¢																																																																																			
+																																																						35																																																																													
+Šˆ“®2018”N“x   •å‹àŽÀÑ																																						:‘‡Œvggg									6											‰~																																																																									
+2018”N“x•å‹àŽå‚È“à—e																								•åWŠúŠÔ																•å‹àŠz																																																																																											
+ƒ~ƒƒƒ“ƒ}[ŠwZŒšÝŽx‰‡•å‹à																								0  84   l~5/																"861,462‰~"																																																																																											
+24ŽžŠÔƒeƒŒƒr41uˆ¤‚Í’n‹…‚ð‹~‚¤v•å‹à																								20																"8,513,858‰~"																																																																																											
+¼“ú–{‹‰JÐŠQ‹Ù‹}    ‰‡•å‹à																								2018.7/10~8/31																"2,057,758‰~"																																																																																											
+•xŽmŽRŠÂ‹«•Û‘S•å‹à																								"2018.9/3~9/30
+2018.12/17~2019.3/31"																"669,960‰~"																																																																																											
+”BŽR”½ŽË˜F•Û‘SŠˆ“®Žx‰‡•å‹à																								"2018.9/3~9/30
+2018.12/17~2019."																"1,091"																																																																																											
+"u•½¬30”N‘ä•—21†v‹y‚Ñ
+u•½¬30”N–kŠC“¹’_U“Œ•”’nkv‹Ù‹}Žx‰‡•å‹à"																								2018.9/7~9/24																"640,778‰~"																																																																																											
+ƒCƒIƒ“ƒ†ƒjƒZƒt    ƒZ[ƒtƒEƒH[ƒ^[ƒLƒƒƒ“ƒy[ƒ“•å‹à																								"2018.10/l~10/9
+2018.10/22~11/11"																"364,444‰~"																																																																																											
+ƒCƒ“ƒhƒlƒVƒA    ƒXƒ‰ƒEƒFƒV“‡’nkE’Ã”g”íŠQ‹Ù‹}Žx‰‡•å‹à																								2018.10/10~10/21																"321,033‰~"																																																																																											
+ƒAƒWƒAá‚ª‚¢ŽÒ‰ž‰‡•å‹à																								2018.11/15~12/16																"461,051‰~"																																																																																											
+á‚ª‚¢ŽÒ‚à‚Ì‚Ã‚­‚è‰ž‰‡•å‹à																								2019.2/9~3/10																"215,300‰~"																																																																																											
+"•¬’c‘Ì‚ÌŠˆ“®•ª–ì
+1D•ŸŽƒ‚Ì‘i}"																																																																																																																																			
+"2018”N–›•¬‹à10,861,700‰~‘PˆÓ‚Ì‘½‚­‚Ì‰©F‚¢ƒŒƒV[ƒg‚ª“Š“Ñ‚³‚ê‚Ü‚µ‚½B
+”N“x•Ê‰©F‚¢ƒŒƒV[ƒg•¬‹à
+(2    1~2             1“xj"																																																																																																																																			
+2																																																																																																																																			
+2~2							1																																																																																																																												
+					",  73,2"																																																																																																																														
+							",151"																																																																																																																												
+"£ƒCƒIƒ“ƒMƒtƒgƒJ[ƒh‚É‚Ä‘¡’æ
+¬"																																																																																																																																			
+"2014”N5                       13
+2015”N      5         ‘ÌI       133
+2016”N      608’c‘Ì           13
+2017”N      592                  135
+l                 2                 13"																				"7,651,900‰~
+8,638,800‰~
+10,732,100‰~
+10,580,100‰~
+10,
+,   73,2          (2   l    .2.28Œ»Ýj"																																												"ˆ¤‚Í’n‹…‚ð‹~‚¤v•å‹à‚Ì‘¡’æŽ®                                   ‚Ì•å‹à•—Œi
+•xŽmŽRŠÂ‹«•Û‘S•å‹à‘¡’æŽ®"																																																																			
+10                                                                                                                                                                                                                                                                                                                                                                                                                                       11																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+mpany's social contribution activity																																																																																																																																			
+"”Ÿ“ì’¬iÃ‰ªŒ§jŽqˆç‚ÄŽx•QŽ–‹Æ‚Ö‚Ì‹¦—Í
+”Ÿ“ìŠÔ‹{“X‚ð‰Á‚¦A2“X•Ü‚ÅÝ’u‚µ‚Ä‚¨‚è‚Ü‚·B‚±‚ÌƒJ[ƒg‚Ì“Á’¥‚ÍAŽq‚Ç‚ªŽ©•ª‚ÅƒJ[‰Ÿ‚Æ‚ª‚Å‚«A      ŽÒ‚ªŠëŒ¯–h       ‚«      ƒ“ƒ[ƒŒƒo[‚ª‚ ‚é‚±‚Æ‚Å‚·BŽqˆç
+‚Ä¢‘ã‚Ì”ƒ•¨Žž‚Ì•‰’S‚ÌŒyŒ¸‚ð–Ú“I‚Æ‚µ‚ÄAŽq‚Ç‚à‚ª–O‚«‚È‚¢‚Å‘Ò‚Ä‚é‚æ‚¤‚É—V‹ï‚Ì‚æ‚¤‚ÈƒJ[ƒg‚ð”z”õ‚µAŽq‚Ç‚à‚ª”ƒ•¨‚É•t‚«‡‚í‚³‚ê‚Ä‚¢‚éŠ´Šo‚ð–³‚­‚µAeŽq‚Å”ƒ•¨‚ðŠy‚µ‚ß‚é‚æ‚¤‚É”z—¶‚µ‚Ä‚¨‚è‚Ü‚·B¦MV‚Íƒ}ƒbƒNƒXƒoƒŠƒ…‚Ì—ª‚Å‚·B"																																																											"‘Uˆæ‚Æ‚ÌÐŠQŽž‚É‚¨‚¯‚é˜AŒg
+FH‚Ì”õ’~   ’èŠú‘î”zƒT[ƒrƒX‚É‚Â‚¢‚Ä     I
+Buddy   Box‚ÍA5‚Â‚ÌƒRƒ“ƒZƒvƒg‚Ì‚à‚Æ‚ÉAÐŠQŽž‚Éu1” ‚É‘ål1l3“ú•ªv‚ÌH‚Ì”õ’~    ’èŠú‘î”zƒT                                     ŽÐ‚Æƒp[ƒgƒi[Šé‹Æ‚½‚¿‚Æì‚è‚Ü‚µ‚½BŽ©•ª‚Ì”õ‚¦‚Í‚à‚¿‚ë‚ñA‘åØ‚Èl‚ðŽç‚é‚½‚ß‚Ì”õ‚¦‚Æ‚µ‚Ä‚²Ž©‘î‚É‚¨“Í‚¯‚·‚éƒT[ƒrƒX‚É‚È‚è‚Ü‚·B”õ’~•i‚ÍA“–ŽÐ‚ÌŠÇ—‰h—{Žm‚ªŠÄC‚µƒGƒlƒ‹ƒM[—Ê‚â‰–•ª‚È‚Ç‚É‚à”z—¶‚µ‚Ä‚ ‚è‚Ü‚·‚Ì‚ÅAÐŠQŽž‚Å‚à‚¨‚¢‚µ‚­A‚µ‚Á‚©
+‚è‰h—{‚ðŽæ‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B"																																																																								
+|B		uddyBoxiƒoƒfƒB[ƒ|ƒbƒNƒXj																																																																																																																																	
+_M			5‚Â‚ÌƒRƒ“ƒZƒtƒg																																																																																																																																
+"•l¼Žs‚©‚ç‹¦—ÍˆË—Š‚ðŽó‚¯‚ÄAee‚Í‚Ü‚Ü‚ÂHdeŒ³‹C‰ž‰‡“X_‚Æ‚µ‚Ä•l¼Žs“à“X•Ü‚ªŽQ‰Á‚µ‚Ä‚¨‚è‚Ü‚·B
+ƒCƒxƒ“ƒgŒ[”­‚âŽ‘—¿”z•zŒ[”­‚ÌêŠ‚Æ‚µ‚ÄA“–ŽÐ‚Ì“X•Ü‚ð—˜—p‚µ‚Ä‚¨‹q‚³‚Ü‚Éî•ñ”­M‚ð‚µ‚Ä‚¨‚è‚Ü‚·B
+2018”N“xŽÀÑ
+11“X•Ü20‰ñŽÀŽ{    Œ[”­l”2,113l
+iƒCƒxƒ“ƒgŒ[”­9‰ñ   Ž‘—¿”z•zŒ[”­11‰ñj
+y‚Í‚Ü‚Ü‚ÂHdeŒ³‹C‰ž‰‡“Xz
+Ÿ–Ú“IŸ
+Žs–¯‚ÌŒ’NˆÓŽ¯Œüã‚Æ¶ŠˆKŠµ•a‚Ì”­Ç‚ð—\–h‚·‚é‚½‚ß‚ÉAH‚âŒ’N‚Ã‚­‚è‚Ìî•ñ”­M‚âŽs–¯‚ªŒ’N‚É”z—¶‚µ‚½HŽ–‚ðg‹ß‚É‘I‘ð‚Å‚«‚éŠÂ‹«®”õ‚ð„i‚·‚é‚½‚ßB
+Ÿ“à—eŸ
+HŽ–‚ð‚¨‚¢‚µ‚­ƒoƒ‰ƒ“ƒX‚æ‚­‚ð’†S‚Éu–ìØ‚ÅŒ’N¶ŠˆvuŒ¸‰–‚ÅŒ’N¶Šˆv‚ðƒe[ƒ}‚Æ‚µ‚½î•ñ’ñ‹Ÿ‚âŒ[”­Šˆ“®‹y‚Ñg‰h—{ƒoƒ‰ƒ“ƒX""Aee–ìØÛŽæ_AgŒ¸‰–_“™‚ÌŒ’N‚É”z—¶‚µ‚½‚»‚¤‚´‚¢A•Ù“–‚È‚Ç‚Ì¤•i‚âƒƒjƒ…[‚Ì’ñ‹Ÿ‚ðŽÀŽ{‚µ‚Ü‚·B"																																"w‚È‚ª‚¢‚¸‚ÝƒjƒRƒjƒRƒ^ƒEƒ“x‚ÍAŽq‚Ç‚à’B‚ª‚¨“X‚Å“­‚¢‚½‚èA“­‚¢‚½‚¨‹ài‹[Ž—’Ê‰Ýj‚Å‚¨”ƒ•¨‚ð‚·‚éŽ–‚Å—V‚Ñ‚È‚ª‚çAŽÐ‰ï‚ÌŽd‘g‚Ý‚É‚Â‚¢‚ÄŠy‚µ‚­Šw‚×‚é‚±‚Æ‚ª‚Å‚«‚éƒCƒxƒ“ƒg‚Å‚·BŽqˆç‚ÄŽx‰‡Šˆ“®‚Æ‚µ‚ÄA‚È‚²‚ÝƒJƒtƒFiŽqˆç‚ÄŽx
+‰‡’c‘Ìj‚æ‚è‚Ì—v¿‚É‘Î‰ž‚µA’nŒ³Šé‹Æ‚Æ‚µ‚Ä¡”N“x‚Å3‰ñ–Ú ‚Ìo“W‚Æ‚È‚è‚Ü‚·B¬‚³‚Èƒ}ƒbƒN ƒXƒoƒŠƒ…“ŒŠC‚Ì‚¨“X‚ÅƒŒƒW‘Å‚¿ ‚â¤•i‚Ì’Â—ñ‚È‚Ç‚ð‘ÌŒ±‚µ‚Ä‚à‚ç‚¢‚Ü‚µ‚½B iÃ‰ªŒ§’·ò’¬j
+Ã‰ªŒ§•xŽm‹{Žs‚É‚¨‚¢‚ÄA–Ó“±Œ¢ƒ†[ƒU[Vƒ†ƒjƒbƒgo”­Ž®‚ªs‚È‚í‚ê‚Ü‚µ‚½B“ú–{–Ó“±Œ¢‘‡ƒZƒ“ƒ^[iˆ¤ÌF•xŽmƒn[ƒlƒXj‚É‚¨‚¢‚Ä‹¤“¯ŒP—û‚ðs‚¢–Ó“±Œ¢
+ƒ†[ƒU[‚Æ‚È‚Á‚½ƒ†ƒjƒbƒg‚ð‘Î"																																						"l.Ž©‘î‚Ü‚Å‚¨“Í‚¯
+2‰h—{‚Ü‚Ål‚¦‚½¤•i\¬
+3D•’iŽg‚¢‚Å‚«‚ég‚¨‚¢‚µ‚¢h‚ð’Ç‹
+4D‰Î‚â“d‹C‚ªŽg‚¦‚È‚­‚Ä‚àA‘åä•v
+5DˆÀS‚ð‚¨‹‚ß‚â‚·‚¢—¿‹à‚Å
+I
+ƒ}ƒbƒNƒXƒoƒŠƒ…ŠJ¬“X‚Æ_“ÞìŒ§ŠJ¬’¬‚Æ‚Ìw–hÐx‚ÌŽæ‚è‘g‚Ý‚ð‚²Ð‰î‚µ‚Ü‚·B
+1.   2018”N9ŒŽ1“úw–hÐ‚Ì“úx‚É“X“à‚Å–hÐ—p•i‚ÌW‡“WŠJ‚ðŽÀŽ{‚µA‚¨‹q‚³‚Ü‚ÉPR‚ð‚µ‚Ü‚µ‚½B
+2.   2018”N9ŒŽ2“úu’¬“ˆê–hÐŒP—ûv‚Ì’†‚ÅAÐŠQŽž•¨Ž‘’²’B‹¦’è‚ÉŠî‚Ã‚«A‹~‰‡•¨Ž‘€ ”õ‚Æˆø“n‚µ‚ÌŒP—û‚ðs‚¢‚Ü‚µ‚½B
+3.   2018”N9ŒŽ5“ú“X“à‚Å”ð“ïŒP—ûAƒVƒFƒCƒNƒAƒEƒgŒP—û‚ðŽÀŽ{‚µ‚Ü‚µ‚½B
+4.   2018”N11ŒŽ24“úŠJ¬’¬ŠÂ‹«–hÐƒtƒFƒA‚ÉŽQ‰Á‚µAuBuddy  Boxv‚Ì“WŽ¦A’ñˆÄ‚ðs‚¢‚Ü‚µ‚½B
+ÐŠQŽž•¨Ž‘’²’B‹¦’è"																																																													
+’nˆæ	‚Æ‚ÌÐŠQŽž‚É‚¨‚¯‚é‰^Œg																																																																																																																																		
+"Û‚Æ‚µ‚½Ž®“T‚É‚È‚è‚Ü‚·B“–ŽÐ‚ÍA‰©F‚¢ƒŒƒV[ƒgƒLƒƒƒ“ƒy[ƒ““™‚ÅŒð—¬‚ª‚ ‚èoÈ‚³‚¹‚Ä’¸‚«‚Ü‚µ‚½B
+ŽO“‡ŽsiÃ‰ªŒ§j‚ÆuäÝ—îŽÒŒ©Žç‚èƒlƒbƒg
+DDƒDDDD[DDDDDƒNDDDDvDDDDD‚ÉDDDDŠÖDDDDD‚·DDDDD‚éDDDD‹¦DDDDD’èDDDD’÷DDDDDŒ‹DDDD‚ÉDDDDD‚ÂDDDDD‚¢DDDD‚ÄDDDDDDDDDDD
+ŽO“‡Žs‚Ìu‚—îŽÒŒ©Žç‚èƒlƒbƒgƒ[ƒNv‚Æ‚ÍA‹¦—ÍŽ–‹ÆŽÒ‚ª‚—îŽÒ"																																																																						"“–ŽÐ‚Å‚ÍAÐŠQŽž‚É‚¨‚¯‚és­‚Æ‚Ì˜AŒg‚ð‚‚ß‚é‚½‚ßA’nk‚â‘ä•—‚È‚Ç‚ÌÐŠQ”­¶Žž‚É‚ÍAŽ©Ž¡‘Ì‚Ì—v¿‚ðŽó‚¯‚½“–ŽÐ‚ªAH—¿•i‚ð’†S‚Æ‚µ‚½•¨Ž‘‚ðˆÀ’è‰¿Ši‚Å‹Ÿ‹‹‚·‚éuÐŠQŽž•¨Ž‘’²’B‹¦’èv‚ð’÷Œ‹‚µ‚Ä‚¢‚Ü‚·B
+y‹¦’è’÷Œ‹Ž©Ž¡‘Ìz3’39Žs’¬^2019”N3ŒŽŒ»Ý
+Ã     ‰ª    Œ§        _“ÞìŒ§        ŽR  ‰ÑlŽ¦v    Œ§
+“‡    Žs         À     ’Ã     Žs         ”M     ŠC     Žs        •x      “y    Žs“‡    “c      Žs         ˆÉ“¤‚Ì‘Žs        ‰º    “c     Žs        ž    –ì     ŽsˆÉ     “¤     Žs        ˆÉ     “Œ     Žs        Œä“aêŽs        Š|     JII    Žs
+Ã     ‰ª     Žs         Œä‘OèŽs        ŒÎ   ¼    Žs      ”Ö     “c      Žs"																																																													
+‚Ì‚²Ž©‘î‚âs“®‚ÌˆÙ•Ï‚É‹C‚ª‚Â‚¢‚½ê‡‚ÉŽs‚Ö’Ê•ñ‚µAŽs‚ªó‹µ																																																																								•xŽm‹{Žs							•½’ËŽsi_“ÞìŒ§j    ‘Š–ÍŒ´Žsi_“ÞìŒ§j    `–ìŽsi_“ÞìŒ§j																																																				
+"‚ðŠm”F‚·‚é‚±‚Æ‚ÅAˆÙ•Ï‚Ö‚Ì‰~
+ŠŠ‚È‘Î‰ž‚ð}‚Á‚ÄŽQ‚è‚Ü‚·B“–ŽÐ‚Å‚ÍAƒlƒbƒgƒX[ƒp[“™‚Å‚¨‹q‚³‚Ü‚Ì‚²Ž©‘î‚É¤•i‚ð‚¨“Í‚¯‚·‚éÛ‚ÉŠm”F‚È‚Ç‚ðŽÀŽ{‚µ"																																																																								"¼”öŽsiˆ¤’mŒ§j      ”_‹´Žsiˆ¤’mŒ§j      b•{ŽsiŽR—œŒGj      ’†‰›ŽsiŽR—œŒ§j“ìƒAƒ‹ƒvƒXŽsiŽR—œ”_j   •y“y‹g“úŽsiŽR—œ”_j
+’·      ò     ’¬         “ìˆÉ“¤’¬        “ŒˆÉ“¤’¬        ´     …    ’¬
+¼     è      ’¬         ”Ÿ     “ì      ’¬         ‹g     “c      ’¬        “’‰ÍŒ´’¬i_“ÞìŒ§j"																																																											
+‚Ü‚·B																																																																								ŠJ¬’¬i_“ÞìŒ§j							“ñ‹{’¬i_“ÞìŒ§j     Š¦ì’¬i_“ÞìŒ§j     K“c’¬iˆ¤’mŒ§j																																																				
+ŽO“‡Žs–ðŠ‚Å‚Ì‹¦’è’÷Œ‹Ž®(2018.08.30)																																																																								•xŽm‰ÍŒûŒÎ’¬iŽR—œ”_j  ¦i    j‚Ì‚È‚¢Žs’¬‚ÍAÃ‰ªŒ§‚Å‚·B																																																											
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+																"1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+company's social contribution activity
+œŽ©Ž¡‘Ì“X•ÜŒ’ŠèƒLƒƒƒ“ƒx[ƒ“iŠJÃ‰ñ”26‰ñ 13’nˆæE18“X•ÜEŽQ‰Ál”1,874–¼j"																																																																																																																			
+					ŽÐ‰ïvŒ£Šˆ“®																																																																																																																														
+																																																																																																																																			
+"œŽq‚Æ‚à‚ÌHˆçuÀiŠJÃ‰ñ”41‰ñEŽQ‰Ál”2,563–¼j"																																													‚¨”ƒ‚¢•¨‚Â‚¢‚Å‚ÉA‚¨‹q‚³‚Ü‚²Ž©g‚ÌŒ’N‚É‚Â‚¢‚ÄˆÓŽ¯‚ð‚‚ß‚éƒCƒxƒ“ƒg‚Å‚·B’nˆæ‚Ì‚¨‹q‚³‚Ü‚ÌŒ’N‚Ì•ÛŽE‘i‚É‚²‹¦—Í’¸‚«AŠe’nˆæ‚ÅŠJÃ‚µ‚Ü‚µ‚½B																																																																													‚µ‚ÄAŽ©Ž¡‘Ì									
+																																																																														MVž–ì“X			"8ŒŽ31“úi‹àj                      œ‚ÌŒ’N“x‘ª’è
+11ŒŽ2“úi‹àj                      œ‚ÌŒ’N“x‘ª’è"																"53             “ŒˆÉ“¤’¬
+43               ‘ÜˆäŽs"											"MVˆîŽæ“X
+MV‘Üˆä–L‘ò“X"						"10ŒŽ29“úiŒŽj                      ŒŒ—¬‘ª’è                              56
+10ŒŽ30“úi‰Îj             ŒŒˆ³EŒŒŠÇ”N—î‘ª’è                     70"																	
+"ž–ì
+MVƒxƒ‹ƒVƒeƒBž–ì“X"																																																																																			"4ŒŽ27“úi‹àj                      œ‚ÌŒ’N“x‘ª’è
+6ŒŽ22“úi‹àj                      œ‚ÌŒ’N“x‘ª’è"														"93
+•xŽm‹{Žs
+86"											MV•xŽm‹{‹{Œ´“X						"6ŒŽ6“úi…j                 œ‚ÌŒ’N“x‘ª’è                         70
+7ŒŽ26“úi–Øj                 œ‚ÌŒ’N“x‘ª’è                         59"																	
+À’ÃŽs																																																																												MVÀ’Ã“ì“X					"10ŒŽ11“úi–Øj                      œ‚ÌŒ’N“x‘ª’è                               97
+6ŒŽ11“úiŒŽjœ‚ÌŒ’N“x‘ª’èE”§”N—î‘ª’èEŒŒŠÇ”N—î‘ª’è        97
+10ŒŽ3“úi…j                      œ‚ÌŒ’N“x‘ª’è                               81"																							•yŽmŽs				"MV•xŽmŒúŒ´“X
+MV•yŽm•yŽmŒ©‘ä“X"							"7ŒŽ12“úi–Øj                 œ‚ÌŒ’N“x‘ª’è
+11ŒŽ15“úi–Øj                   ŒŒŠÇ”N—î‘ª’è
+11ŒŽ12“úiŒŽj                 œ‚ÌŒ’N“x‘ª’è"										"92
+119
+77"						
+																																																																																				6ŒŽ18“úiŒŽj                        ŒŒŠÇ”N—î‘ª’è                                 53																				MVƒ}[ƒNƒCƒYÃ‰ª“X											9ŒŽ9“úi“új                 œ‚ÌŒ’N“x‘ª’è										107						
+ˆÉ“¤‚Ì‘Žs																																																																													MVˆÉ“¤        “X					7ŒŽ13“úi‹àj            ŒŒŠÇ”N—î‘ª’èE”§”N—î‘ª’è																41               Ã‰ªŽs										MVÃ‰ª‹È‹à“X						7ŒŽ31“úi‰Îj                 œ‚ÌŒ’N“x‘ª’è                         89																	
+"œˆê”Ê‚Ì•û‚Ö‚ÌHˆçuÀiŠJÃ‰ñ”20‰ñEŽQ‰Ál”1,197–¼j"																																																	’·ò’¬																											MV’·ò’|Œ´“X						"8ŒŽ2     i–Øj
+6ŒŽ"							"ŒŒŠÇ”N—î‘ª’èE”§”N—î‘ª’è
+‘ª’è"									"37
+138"						"¼è’¬¼ˆÉ“¤’¬
+ŠJ¬’¬"				"MV´…‹»’Ã“X MV¼è“X
+MVŠJ¬“X"						"5ŒŽ19“úi“yj                 œ‚ÌŒ’N“x‘ª’è                         27
+9ŒŽ14“úi‹àj      ŒŒŠÇ”N—îŒŒ¯‘Ì‘g¬‘ª’è               69
+10ŒŽ5“úi‹àj                     ‘Ì‘g¬‘ª’è                             49"																	
+																																																																														MV–L“c“X			9ŒŽ10“úiŒŽj                      œ‚ÌŒ’N“x‘ª’è																92               ŽO“‡Žs											MVŽO“‡ˆë’¬“c“X						10ŒŽ23“úi‰Îj      œ‚ÌŒ’N“x‘ª’èE“à“]‹Ø‘ª’è             50																	
+œ]‹Æˆõ‚Ö‚ÌHˆç																																																																																																																																			
+ŽO“‡Žs’†‰›—«Šw‹‰																																																																																																																																			
+								•s‘«‚µ‚ª‚¿‚È–ìØ‚â“S•ªAƒJƒ‹ƒVƒE																																																																																																																											
+								ƒ€AH•¨‘@ˆÛ‚È‚Ç‚ªŠÜ‚Ü‚ê‚éHÞ‚Ì																																																																																																																											
+								ÛŽæ‚ðSŠ|‚¯A•Î‚ç‚¸‚Éƒoƒ‰ƒ“ƒX‚Ì																																																																																																																											
+								—Ç‚¢HŽ–‚ð‚µ‚æ‚¤‚Æ‚¨˜b‚µ‚µ‚Ü‚µ‚½B																																																																																																																											
+HˆçƒCƒxƒ“ƒgƒw‚ÌŽQ‰ÁiŠJÃ‰ñ”8‰ñEŽQ‰Ál”973–¼j																																																																																																																																			
+•½¬30																																																																																									Œ’N‚Ã‚­‚èŠˆ“®‚ÉŠÖ‚·‚é’mŽ––JÍiÃ‰ªŒ§jŽóÜ_																																										
+uŒ’N‚Ã‚­‚èŠˆ“®‚ÉŠÖ‚·‚é’mŽ––JÍv‚Æ‚ÍA]‹Æ																																																																																																																																			
+																																																																																												‚Ä‹@”\‚·‚é‚æ‚¤—lX‚ÈŽæ‘c‚Ý‚ði‚ß‚Ä‚¨‚è‚Ü‚·B																																							
+“I‚È¶Šˆ‚ªŽÀŒ»‚·‚é‚æ‚¤vŒ£‚µ‚Ä‚Ü‚¢‚è‚Ü‚·B																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+					ŽÐ‰ïvŒ£Šˆ“®																																																																																																																														
+																"1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+company's social contribution activity"																																																																																																																			
+																																																																																																																																			
+"Hˆç‚ÌŽæ‘g‚Ý
+--------------_
+œŠÇ—‰h—{ŽmŠÄC‘yØ‚Ì”Ì”„"																																																																																																																																			
+H‚×‚é‚±‚Æ‚ªŒ’N‚Ì–Ú•W‚Å‚·BŠÇ—‰h—{Žm‚ªŠÄC‚µ‚½A‰–•ª‚ðl—¶‚µ‚½–ìØ‚Ì‘yØ‚ðAH¶Šˆ‚Ì’†‚ÉãŽè‚ÉŽæ‚è“ü‚ê‚é‚±‚Æ‚ÅASg‹¤‚ÉŒ’N‚Èg‘Ì‚ð–ÚŽw‚µ‚Ä‚¢‚½‚¾‚«‚½‚¢‚Å‚·B2018”N“x‚ÍA50Ží—Þ‚ð”Ì”„‚µ‚Ü‚µ‚½B																																																																																																																																			
+																																																																																											y…ŽY•”–åz                       yƒfƒŠƒJ•”–åi‚¨ŽõŽijz                       ƒfƒCƒŠ[‚Æ‚Í”[“¤A—‘‚È‚Ç–ˆ																																								
+																																																																																											‹›‚ð’²—E•ï‘•‚·‚é‚Ü‚Å     ‚É‚¬‚èŽõŽi‚âŠª‚«ŽõŽi‚ª»‘¢‚³‚êA  “ú“ü‰×‚·‚é¤•i‚ÅA“O’ê‚µ																																								
+¦‰æ‘œ‚Í‘S‚Ä												(1/3“ú•ª‚Ì–ìØƒTƒ‰ƒ_‚¤‚Ç‚ñj																																	IÊ‚è–ìØ‚ÌƒK[ƒŠƒbƒNƒxƒbƒp[˜a‚¦j																																																																																						
+																																																																				"‚Ì‰ß’ö‚ðŒ©Šw‚µ‚Ü‚·B           —eŠí‚É“ü‚ê‚Ä¤•i‚É‚È‚é‰ß’ö‚ðŒ©
+Šw‚µ‚Ü‚·B"																																																	"‚½‰·“xŠÇ—‚ª‚³‚ê
+‚ÄR‚¢‚Ü‚·B"														
+																																																																																																																															–¤				
+(1/2“ú•ª‚Ì–ìØÊ‚è–ìØ‚ÆƒP[ƒ‹‚ÌƒTƒ‰ƒ_j        I‚Ù‚¤‚ê‚ñ‘ƒoƒ^[Ý–û˜a‚¦j																																												____Ê‚èƒiƒ€ƒ‹ƒZƒbƒg_____																	”’ˆß‚â–XŽqAƒ}ƒXƒN‚ð‚Â																									"¡¡¡¡¡¡¡
+ƒRƒ~ƒ…ƒjƒeƒB[•›“X’·‚ÍA“X•Ü‚Ì‰q¶ŠÇ—ó‹µ‚â{‚Ìƒgƒs
+ƒbƒNƒX“™A‚¨‹q‚³‚Ü‚É‚¨“`‚¦‚µ‚½‚¢“à—e‚ð‚Ü‚Æ‚ß‚½uƒRƒ~ƒ…ƒjƒeƒB[•›“X’·’ÊMv‚ðì¬‚µA“X•Ü‚ÉŒfŽ¦‚µ‚Ä‚¢‚Ü‚·B"																																													
+‘åØ‚³‚â’nêŽY•i‚ÌÐ‰î																																																																			"“–ŽÐ‚ÍA’j—–â‚í‚¸‘½—l‚È‰¿’lŠÏ‚ðŠˆ‚©‚·ŠÂ‹«‚Ã‚­‚è‚ð„i‚µ‚Ä‚¨‚è‚Ü‚·BŽå‚ÈŽæ‘g‚Ý‚Æ‚µ‚ÄA—«ŠÇ—EŽÐˆõ‚Ìˆç¬‚ÉŒü‚¯‚½•×‹­‰ïi—ŽqƒJƒAƒbƒv•×‹­‰ïj‚ÌŽÀŽ{‚âA—lX‚Èƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚É‘Î‰ž‚µ‚½lŽ–§“x‚ð“±“ü‚µ‚Ä‚¨‚è‚Ü‚·B
+œ—ŽqƒJƒAƒbƒv•×‹­‰ï
+ŽÐ“à‚Ì³ŽÐˆõEƒtƒŒƒbƒNƒXŽÐˆõ(4”NŽŸˆÈãj‚ª‘ÎÛB  ‘²‹Æ¶‚É‚ÍA“X’·E•›“X’·‚ð‘½‚­”yo‚µ‚Ä‚¢‚Ü‚·B
+y–L•x‚ÈƒJƒŠƒLƒ…ƒ‰ƒ€z
+¥Žæ’÷–ðu˜b
+¥¢ŠEˆê‚í‚©‚è‚â‚·‚¢”Žš‚Ì•×‹­"																																																																
+																																																																	l																																																																		
+																												r2018”N“x												ŽY’n‚Ó‚ê‚ ‚¢eŽqŽûŠn‘ÌŒ±ƒcƒA[																																																																																											
+																																																																																																																																			
+																																																	žH																																																																																		
+																														‘æ91‰ñ2018”N4ŒŽ—t•t‘åª																																																																																																					
+																										"v‚Ì                  18”N7ŒŽ‚«‚Ì‚±i‚¦‚Ì‚«‚È‚ß‚±E‚µ‚¢‚½‚¯j
+018”N11ŒŽƒGƒR‚É‚ñ‚¶‚ñ"																																																																																																									
+																																																																																																																																			
+"‚Ä‚¢‚½‚¾‚­‚±‚Æ‚ÅAuˆÀ‘Sv‚ÆuˆÀ
+Sv‚Ö‚Ìî•ñ‚ð’ñ‹Ÿ‚Å‚«‚é‚æ‚¤“w‚ß‚Ä‚¢‚«‚Ü‚·B"																																																																																																		"EH¶Šˆƒvƒ‰ƒ“ƒi[2‹‰Žæ“¾uÀ
+Eƒ}[ƒPƒeƒBƒ“ƒO‚ÌŽ‹“_‚ð—p‚¢‚½
+‰Û‘è‰ðŒˆ
+E˜J–±‚Ì’mŽ¯
+Eæ”yŽÐˆõ‚Æ‚ÌƒfƒBƒXƒJƒbƒVƒ‡ƒ“
+E¤•iŠJ”­"																																	
+																																	"019”N1ŒŽ‚â‚í‚ç‚©”’Ø
+2004”N5ŒŽ`2019”N1ŒŽ—ÝŒvl”"																																																																																																		
+																																																																																																																																			
+																														ŠJÃ”			ŽQ‰Ál”iŽq‹Ÿj								ŽQ‰Ál”i•ƒŒZ“™j																																																																																										
+																														96‰ñ			"2,754"								"2,803"																																																																																										
+																																																																									"–H¶Šˆƒvƒ‰ƒ“ƒi[2‹‰ŒŸ’èŽŽŒ±    Å—DGŒÂlÜIƒUEƒrƒbƒOŒú–Øˆ®’¬“X’|¼–ƒŽq‚³‚ñ
+‚½B"																									"–‘æ5‰ñƒCƒIƒ“_ƒ_ƒC–ž‘«f'ƒAƒ[ƒhƒCƒ“ƒNƒ‹[ƒWƒ‡ƒ“•”–åÜŽóÜI
+¦ƒCƒIƒ“ƒOƒ‹[ƒv“à‚Å‚Ìƒ_ƒCƒo[ƒVƒeƒBŒo‰c‚É
+ŠÖ‚·‚éŽæ‘g‚Ý”­•\
+r
+5”NŠÔŒp‘±ŽÀŽ{‚µ‚Ä‚¢‚é       Žq—Í
+Žó‚¯‚Ü‚µ‚½B"																																	
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+...._																																																																																																																																			
+					ŽÐ‰ïvŒ£Šˆ“®																																																																																																																														
+																"1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+company's social contribution activity"																																																																																																																			
+																																																																																																																																			
+																																																																											‚±‚Á _																							"ƒGƒlƒ‹ƒM[
+2018”N"																																	
+																																																																																																																								-  ˆê  ˆê-											
+																																																																																																																																			
+m																																																																																																																																			
+																																																																																					"‚µ        c--:'e.‚µ--  --_A9ˆê‚æ
+n"																																														
+																																																																														s‚­“®																																																					
+																																																																																																																																			
+																																																"9ŒŽ
+uƒGƒRƒNƒbƒLƒ“ƒOv
+‚È‚é‚×‚­–³‘Ê‚ÈƒGƒlƒ‹ƒM[‚ðŽg‚í‚È‚¢—¿—•û–@‚ð‹³‚í‚è‚Ü‚µ‚½B"																																																																																			
+"6ŒŽ
+u‚Í‚ª‚«ì‚è‘ÌŒ±v
+ƒgƒCƒŒƒbƒgƒp[ƒp[‚ðŽg‚Á‚Ä‚Í‚ª‚«ì‚è
+‚ð‚µ‚Ü‚µ‚½B"																									"7ŒŽ
+uÃ‰ª‰ÈŠwŠÙŒ©Šwv
+ƒGƒlƒ‹ƒM[‚É‚Â‚¢‚ÄAŠy‚µ‚­ŠwK‚µ‚Ü‚µ‚½B"																																																																																																										
+																																																																									Œä‘OèŽsu•l‰ªŒ´Žq—ÍŠÙv‚É‚ÄA—lX‚ÈƒGƒlƒ‹       ” ªu” ªƒsƒWƒ^[ƒZƒ“ƒ^[v‚É‚ÄA” ª      •xŽm‹{   u“cŠÑŒÎ‚Ó‚ê‚ ‚¢Ž©‘Rmv‚É‚ÄAƒM[‚É‚Â‚¢‚Ä‚ÌŠwKB                                             ‚ÌA•¨‚É‚Â‚¢‚Ä‚ÌŠwKB                             ’n‹…‰·’g‰»–hŽ~‚É‚Â‚¢‚Ä‚ÌŠwKB																																																										
+																																																																																																																																			
+																																												n																																																																																							
+						mƒ}ƒbƒNƒXƒoƒŠƒ…ž–ìƒ`ƒA[ƒYƒNƒ‰ƒu																																																																			mŽÐ“à‚Ì•ÇV•·”­•\‰ï																																																										
+																																																																																																													:ˆì‘šˆìBƒ‰ƒvƒTƒ~ƒbƒg																						
+																																																																																																																																			
+																																																																																								3ŒŽ22“ú																																											
+																																																																																																																																			
+																																										"10ŒŽ
+u” ª‚â‚·‚ç‚¬‚ÌX‚Å‚ÌŠwKv
+A•¨‚ðŽÀÛ‚ÉG‚Á‚ÄŠwK‚µ‚Ü‚µ‚½B
+n
+11ŒŽ
+u”MŠC‚Ì‰·ò‚É‚Â‚¢‚Ä‚ÌŠwKv
+”MŠC‚ÌŠX‚ð•à‚¢‚ÄA‰·ò‚ª—N‚«o‚Ä‚¢‚éêŠ‚ð„‚è‚Ü‚µ‚½B"																									"1”N‚ÌŠˆ“®‚ð–Í‘¢Ž†‚É‚Ü‚Æ‚ßA•ÇV•·‚ðì¬B•ÇV•·‚ð‚à‚Æ‚É”NŠÔŠˆ“®‚ð”­•\B
+ˆÉ“¤’·‰ª
+ž–ì                               ŽO“‡–{’¬"																																																																
+"8ŒŽ
+u…—Í”­“dŠ‚ÌŒ©Šwv
+•’i“ü‚é‚±‚Æ‚Ì‚Å‚«‚È‚¢A”­“dŠ‚Ì’†‚É“ü‚ç‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚µ‚½B"																									"8ŒŽ
+u24ŽžŠÔƒeƒŒƒr•å‹àŠˆ“®v
+‘å‚«‚Èº‚ðo‚µ‚Ä‚ª‚ñ‚Î‚è‚Ü‚µ‚½B"																																																																																																										
+																																																																																																															"3ŒŽ26El
+ƒCƒIƒ“ƒŠƒe[ƒ‹iŠ”j“ŒŠCƒJƒ“ƒpƒj[Aƒ}ƒbƒNƒXƒoƒŠƒ…’†•”
+iŠ”jAƒ}ƒbƒNƒXƒoƒŠƒ…“ŒŠCiŠ”j‚æ‚è‘I‚Î‚ê‚½‘ã•\     ƒNƒ‰ƒu‚ªŽQ‰Á‚µA•ÇV    ‚ðŽg‚Á‚Ä”­•\B"																				
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																	|		
+						Fƒ}ƒbƒNƒXƒoƒŠƒ…ˆÉ“¤’·‰ªƒ`ƒA[ƒYƒNƒ‰ƒv																																																																																																																													
+																																																																																																													-Žš“`—‚”Fƒeƒ‰ƒu‚ª“üÜI																						
+																																																																																																																																			
+																																																																																																																																			
+"8ŒŽ
+uˆÉ“¤”¼“‡ƒWƒIƒp[ƒNƒ~ƒ…[ƒWƒAƒ€Œ©Šwv
+ƒ†ƒlƒXƒR¢ŠEƒWƒIƒp[ƒN‚É”F’è‚³‚ê‚½ˆÉ“¤”¼“‡‚É‚Â‚¢‚ÄŠwK‚µ‚Ü‚µ‚½B"																									"8ŒŽ
+uŽë–ìì•ú…˜HŒ©Šwv
+•ú…˜H‚Ì’†‚ð•à‚«‚Ü‚µ‚½B"																																																																																																										
+																																																																																																													8ŒŽ‚É–kŠC“¹ƒjƒZƒR’¬‚Ås‚í‚ê‚é3”‘4“ú‚Ì‘S‘‘å‰ï‚ÉŽQ‰Á‚µ‚Ü‚·BƒCƒIƒ“ƒ`ƒA[ƒYƒNƒ‰ƒuƒTƒ~ƒbƒgãˆÊ“üÜƒNƒ‰ƒu‚ªŠe’nˆæ‚©‚çWŒ‹Bƒ‰ƒtƒeƒBƒ“ƒO‚âƒEƒH[ƒNƒ‰ƒŠ[‚È‚Ç‚ð‘ÌŒ±B																						
+																																																																																																																																			
+																																																																																																																																			
+18                                                                                                                                                                                                                                                                                                                                                                           19																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
+																																																																																																																																			
